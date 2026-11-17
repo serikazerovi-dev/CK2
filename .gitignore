@@ -1,0 +1,13 @@
+node_modules/
+*.log
+__pycache__/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Plain artwork belongs outside the distributable.
+assets/cg/
+assets/sprites/

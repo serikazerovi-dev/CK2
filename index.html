@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b0c13">
+  <meta name="description" content="Read the complete five-part prologue of The Casanova Killer. An illustrated browser demo about angels, lost memories, and a future that has already happened.">
+  <title>The Casanova Killer — Prologue</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="story/story.js"></script>
+  <script defer src="reader-core.js"></script>
+  <script defer src="asset-index.js"></script>
+  <script defer src="asset-loader.js"></script>
+  <script defer src="sprite-art.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div id="asset-loading" role="status"><p id="asset-status">Loading artwork…</p></div>
+  <div id="app" inert>
+    <header class="topbar">
+      <button class="brand" id="home-button" aria-label="Open title screen"><span class="brand-symbol">✧</span><span>THE CASANOVA KILLER<small>PROLOGUE · BROWSER DEMO</small></span></button>
+      <nav aria-label="Reader menu">
+        <button data-panel="chapters">Chapters</button>
+        <button data-panel="history" id="history-button">History</button>
+        <button data-panel="saves">Saves</button>
+        <button data-panel="settings" aria-label="Settings"><span aria-hidden="true">⚙</span><span class="settings-label"> Settings</span></button>
+      </nav>
+    </header>
+
+    <main id="reader" hidden>
+      <div class="scene-heading"><span id="location"></span><span id="chapter-label"></span></div>
+      <section class="stage" id="stage" aria-label="Scene illustration">
+        <div class="ambient" id="ambient" aria-hidden="true"></div>
+        <div id="scene-frame"><img id="scene-image" class="scene-image" alt="" draggable="false"></div>
+        <div class="stage-shade" aria-hidden="true"></div>
+          <div id="enemy" class="sprite enemy" hidden aria-hidden="true"><img id="enemy-image" alt="" draggable="false"></div>
+          <div id="sprite" class="sprite" hidden aria-hidden="true"><img id="sprite-image" alt="" draggable="false"><div class="sprite-veil"></div></div>
+        <div id="chapter-card" class="chapter-card" hidden><span id="chapter-number"></span><h1 id="chapter-title"></h1><p id="chapter-subtitle"></p></div>
+        <button id="show-text" class="floating-button" hidden>Show text <kbd>H</kbd></button>
+        <button id="hide-text" class="art-button" aria-label="View artwork without text">⛶ <span>View art</span></button>
+        <div id="art-error" role="status" hidden>This illustration could not load. You can continue reading.</div>
+      </section>
+      <section class="dialogue" id="dialogue" aria-label="Story text">
+        <div class="reading-content">
+        <button id="previous-passage" class="previous-passage" aria-label="Return to the previous passage" hidden><span id="previous-speaker"></span><span id="previous-text"></span><span class="previous-hint">↑ Return to this passage</span></button>
+        <div class="current-passage">
+        <div class="speaker-line"><span class="speaker-mark" aria-hidden="true"></span><span id="speaker"></span><span id="delivery"></span></div>
+        <p id="story-text" aria-live="polite" aria-atomic="true"></p>
+        </div>
+        </div>
+        <div class="choices" id="choices" hidden></div>
+        <div class="reader-controls">
+          <div><button id="back-button" title="Previous passage (A)" aria-keyshortcuts="A ArrowLeft" aria-label="Previous passage"><kbd class="navigation-key" aria-hidden="true">A</kbd> <span>Back</span></button><button id="auto-button" aria-pressed="false">Auto</button><button id="quick-save">Save</button></div>
+          <span id="reading-position"></span>
+          <button class="next-button" id="next-button" title="Next passage (D)" aria-keyshortcuts="D ArrowRight">Continue <span aria-hidden="true">→</span></button>
+        </div>
+      </section>
+      <div class="progress-track" aria-hidden="true"><div id="progress-fill"></div></div>
+    </main>
+
+    <main id="title-screen" class="title-screen">
+      <div class="title-art" aria-hidden="true"></div>
+      <div class="title-vignette" aria-hidden="true"></div>
+      <div class="title-content">
+        <span class="eyebrow">AN ILLUSTRATED PROLOGUE IN FIVE PARTS</span>
+        <h1>The Casanova<br><em>Killer</em><span class="title-star">✧</span></h1>
+        <p class="title-description">A voice in the dark. A decade lost.<br>A future that remembers you.</p>
+        <div class="title-actions"><button class="primary" id="begin-button">Begin the story <span>→</span></button><button id="resume-button" hidden>Continue reading</button></div>
+        <div class="title-bottom"><span>ACT 0</span><span class="fine-line"></span><span>THE THREADS OF A COVENANT</span></div>
+      </div>
+      <div class="title-note">A: back · D: next · Click / Space / Enter to advance · Progress saved on this device<br>Text speed can be adjusted in Settings.</div>
+    </main>
+
+    <main id="ending-screen" class="ending-screen" hidden>
+      <div class="ending-film-stage">
+        <video id="ending-video" playsinline disablepictureinpicture disableremoteplayback controlslist="nodownload nofullscreen noremoteplayback" tabindex="-1" preload="none" aria-label="The Casanova Killer closing film"></video>
+        <button id="play-film" class="primary film-start" hidden>Start film</button>
+        <p id="video-message" role="status"></p>
+      </div>
+      <div class="ending-actions"><button id="pause-film">Pause</button><button id="ending-home" class="primary">End</button></div>
+    </main>
+  </div>
+
+  <dialog id="panel" aria-labelledby="panel-title">
+    <div class="panel-head"><h2 id="panel-title"></h2><button id="close-panel" aria-label="Close panel">✕</button></div>
+    <div id="panel-content"></div>
+  </dialog>
+  <div id="toast" role="status" hidden></div>
+  <noscript>This browser demo needs JavaScript enabled. It runs entirely in your browser.</noscript>
+</body>
+</html>

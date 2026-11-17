@@ -1,0 +1,2510 @@
+{
+  "sourceParagraphs": 584,
+  "dialogueBlocks": 499,
+  "adaptedDialogueParagraphs": [
+    7,
+    24,
+    41,
+    47,
+    49,
+    50
+  ],
+  "nodes": 546,
+  "dialogues": [
+    {
+      "paragraph": 5,
+      "ordinal": 0,
+      "raw": "MC: “Was that... someone crying?”"
+    },
+    {
+      "paragraph": 7,
+      "ordinal": 0,
+      "raw": "???: “Hey, you’ve already made your choice. Use WASD to move around.”"
+    },
+    {
+      "paragraph": 13,
+      "ordinal": 0,
+      "raw": "Narrator: \"A few years have passed since the Robot Revolution, and things had calmed down, the way a house calms down after a fire: by having less in it.\""
+    },
+    {
+      "paragraph": 14,
+      "ordinal": 0,
+      "raw": "Narrator: \"The war had been loud. The peace was not. The cities hummed. The streets were so clean they squeaked. Machines cooked, carried, counted and, more and more, decided, and nobody was cruel about any of it.\""
+    },
+    {
+      "paragraph": 15,
+      "ordinal": 0,
+      "raw": "Narrator: \"The street was wet and shining and almost empty. Thin lines of light ran along the pavement like lanes for something smaller than people, and little white carts rolled on errands of their own. A robot stood against the wall of a tower, switched on and waiting for no one. High above, two drones crossed the clouds, unhurried, going exactly where they had always been sent.\""
+    },
+    {
+      "paragraph": 16,
+      "ordinal": 0,
+      "raw": "Narrator: \"The only things that glowed with any enthusiasm were the screens. A fox-eared girl made of pink light watched the street with a patient smile, and beside her a maid in lace did the same. Neither was a person. Both were for sale. Past them, a tower rose above the rest with a star on its face, and the setting sun lay across the whole city in long bars of gold. It was autumn, or the city's idea of one: a few trees in their concrete planters had been allowed to drop their leaves.\""
+    },
+    {
+      "paragraph": 17,
+      "ordinal": 0,
+      "raw": "Narrator: \"Nobody shouted anymore, which everyone agreed was progress. The Narrator has noticed that 'everyone agrees' is simply what a room sounds like after the dissenters have left. Anyway. Listen. These people are about to discuss the most important things in their lives.\""
+    },
+    {
+      "paragraph": 18,
+      "ordinal": 0,
+      "raw": "Passerby 1: \"Just got the new upgrade for my home bot. It can practically cook dinner by itself now.\""
+    },
+    {
+      "paragraph": 19,
+      "ordinal": 0,
+      "raw": "Passerby 2: \"I heard they're implementing AI-driven governance in the next district. Direct democracy, powered by algorithms.\""
+    },
+    {
+      "paragraph": 20,
+      "ordinal": 0,
+      "raw": "Passerby 3: “Have you heard about the new REI model? They’re amazing. Now they even come in fox-girl and maid versions.”"
+    },
+    {
+      "paragraph": 21,
+      "ordinal": 0,
+      "raw": "Passerby 4: “That Fairchild Star Lake Institution right, what REI model is this?”"
+    },
+    {
+      "paragraph": 24,
+      "ordinal": 0,
+      "raw": "???: “Strange. I do not remember this being here. You should check it out. Walk near it and press F.”"
+    },
+    {
+      "paragraph": 29,
+      "ordinal": 0,
+      "raw": "Narrator: \"A night. A fence. A dirt road that smelled of dust and cut grass, and fireflies. Somewhere in the dark a little girl was crying, the way only the very small can cry: completely, and with no plan to stop.\""
+    },
+    {
+      "paragraph": 30,
+      "ordinal": 0,
+      "raw": "Girl: *crying*: “sniff… hic… uuu… sniff…”"
+    },
+    {
+      "paragraph": 31,
+      "ordinal": 0,
+      "raw": "Girl: “Thank you for saving me.”"
+    },
+    {
+      "paragraph": 32,
+      "ordinal": 0,
+      "raw": "Boy: *heavy breathing* “Hah… hah… You looked like you were in trouble.”"
+    },
+    {
+      "paragraph": 33,
+      "ordinal": 0,
+      "raw": "Boy: “And there’s no way I could just leave you be. If anything like this happens again, just call my name.”"
+    },
+    {
+      "paragraph": 34,
+      "ordinal": 0,
+      "raw": "Girl: “Thank you.”"
+    },
+    {
+      "paragraph": 37,
+      "ordinal": 0,
+      "raw": "???: “Looks like there is a path forward open now. Let’s keep moving.”"
+    },
+    {
+      "paragraph": 41,
+      "ordinal": 0,
+      "raw": "???: “You should hit those barrels. I think they have water in them, this should help with the fire. Use ‘J’ to hit them.”"
+    },
+    {
+      "paragraph": 43,
+      "ordinal": 0,
+      "raw": "???: “The path ahead may prove challenging, beyond what you’ve faced so far. Allow me to lend you my strength.”"
+    },
+    {
+      "paragraph": 44,
+      "ordinal": 0,
+      "raw": "???: “I am Arielle, guardian of the Temple of Time. By my blade, we shall carve a new future, correcting the course of the past.”"
+    },
+    {
+      "paragraph": 47,
+      "ordinal": 0,
+      "raw": "Arielle: \"Quickly, press 'U' … together, we stand stronger against these foes.\""
+    },
+    {
+      "paragraph": 49,
+      "ordinal": 0,
+      "raw": "Arielle: \"Let me lead the way. Your trust grants me strength. Press 'U' to attack our enemies.\""
+    },
+    {
+      "paragraph": 50,
+      "ordinal": 0,
+      "raw": "Arielle: \"The tide of battle wanes. Summon the full extent of my power with 'I' … let’s turn the scales.\""
+    },
+    {
+      "paragraph": 54,
+      "ordinal": 0,
+      "raw": "Narrator: \"A laboratory, a little after midnight: servers humming, a dozen screens glowing. Coffee was forbidden here. Coffee was also, naturally, everywhere your colleagues were.\""
+    },
+    {
+      "paragraph": 55,
+      "ordinal": 0,
+      "raw": "Narrator: \"Two people were arguing about it, and neither of them really meant the coffee. In a world that had mostly stopped caring, it was the sound of two people who still did.\""
+    },
+    {
+      "paragraph": 56,
+      "ordinal": 0,
+      "raw": "MC: \"Again with the coffee in here? You know the rules about liquids around the lab equipment.\""
+    },
+    {
+      "paragraph": 57,
+      "ordinal": 0,
+      "raw": "Female Colleague: \"Oh, lighten up. It's not like your precious machines can't handle a little coffee. Or is it you that can't handle a bit of change?\""
+    },
+    {
+      "paragraph": 58,
+      "ordinal": 0,
+      "raw": "MC: \"Sure, because a fried circuit board is exactly the kind of 'change' we need around here. Very progressive.\""
+    },
+    {
+      "paragraph": 59,
+      "ordinal": 0,
+      "raw": "Female Colleague: \"Your sarcasm is as stale as yesterday's brew. You really think you're charming, don't you?\""
+    },
+    {
+      "paragraph": 60,
+      "ordinal": 0,
+      "raw": "MC: \"Charm? No. But I do have a knack for brightening up this dreary place.\""
+    },
+    {
+      "paragraph": 61,
+      "ordinal": 0,
+      "raw": "Narrator: “He winked. She did not find it charming.”"
+    },
+    {
+      "paragraph": 62,
+      "ordinal": 0,
+      "raw": "Female Colleague: \"Brightening up? Who do you think you are, Casanova? Ugh, you're so annoying. You're lucky Lord Siegmar insisted I be nice to you guys.\""
+    },
+    {
+      "paragraph": 63,
+      "ordinal": 0,
+      "raw": "MC: \"Sieg... what now? Who's that?\""
+    },
+    {
+      "paragraph": 64,
+      "ordinal": 0,
+      "raw": "Female Colleague: \"Forget it. Just keep your winks to yourself and maybe focus on something productive for a change.\""
+    },
+    {
+      "paragraph": 65,
+      "ordinal": 0,
+      "raw": "Narrator: \"I did not ask again. I should have. Ah ...\""
+    },
+    {
+      "paragraph": 69,
+      "ordinal": 0,
+      "raw": "Narrator: \"After the tunnel's eerie presence and mystical rocks, the gates were almost too much to look at. Gold, mostly: gates of it, taller than anything the dark had prepared you for, wrought into stars and compass roses and the long feathers of wings, with a low sun burning somewhere behind the bars so that the whole thing seemed lit from within.\""
+    },
+    {
+      "paragraph": 70,
+      "ordinal": 0,
+      "raw": "Narrator: \"Above them the sky could not decide what hour it was. One half of it had settled on sunset, all burning cloud, while the other had already gone to stars, a violet smear of galaxy over towers of white stone. Stone angels kept watch from the pillars. The towers drifted among the clouds as if the ground had been optional. And the floor was polished so smooth that the whole place existed twice.\""
+    },
+    {
+      "paragraph": 71,
+      "ordinal": 0,
+      "raw": "Narrator: “There was no one there. Only the gates, the light, and a great golden star set into the floor, as if the whole place had been built around a single point and was waiting for someone to stand on it.”"
+    },
+    {
+      "paragraph": 74,
+      "ordinal": 0,
+      "raw": "Narrator: “Then, between one breath and the next, someone was.”"
+    },
+    {
+      "paragraph": 75,
+      "ordinal": 0,
+      "raw": "Narrator: “At the center of it all, small against that much gold, a woman stood with one hand resting on her hip, as if the gates behind her were hers to open. Her hair was the blue of a sky that has never once been rained on. A halo, white wings held half open, golden armor on one shoulder, a cape the color of morning.”"
+    },
+    {
+      "paragraph": 76,
+      "ordinal": 0,
+      "raw": "Narrator: \"Had she been waiting, or had she only just arrived?”"
+    },
+    {
+      "paragraph": 77,
+      "ordinal": 0,
+      "raw": "Narrator: “Either way, it was a weight of a different kind, and it settled on your shoulders before she said a word. You had walked a long way to get here, and now someone else stood in front of you.\""
+    },
+    {
+      "paragraph": 78,
+      "ordinal": 0,
+      "raw": "???: “Well done, Seeker. You have reclaimed your essence, shedding a decade in the process. Such feats are commendable.”"
+    },
+    {
+      "paragraph": 79,
+      "ordinal": 0,
+      "raw": "???: “Most who walk that tunnel arrive with a great deal less of themselves left.”"
+    },
+    {
+      "paragraph": 80,
+      "ordinal": 0,
+      "raw": "Narrator: \"The gates did not open. They simply stopped being closed.\""
+    },
+    {
+      "paragraph": 81,
+      "ordinal": 0,
+      "raw": "???: “The way forward is now open to you.”"
+    },
+    {
+      "paragraph": 84,
+      "ordinal": 0,
+      "raw": "Narrator: “She rested her chin on one hand and studied you the way one studies the first page of a book, deciding whether to keep reading.”"
+    },
+    {
+      "paragraph": 85,
+      "ordinal": 0,
+      "raw": "???: “Be mindful of the covenant to which you are bound. Our faith in you is considerable.”"
+    },
+    {
+      "paragraph": 86,
+      "ordinal": 0,
+      "raw": "???: “Your tale, as observed through Arielle’s accounts, promises to be captivating. It would be a disservice to all if it were to falter into tedium.”"
+    },
+    {
+      "paragraph": 87,
+      "ordinal": 0,
+      "raw": "???: “And Arielle.”"
+    },
+    {
+      "paragraph": 87,
+      "ordinal": 1,
+      "raw": "Narrator: “For the first time, something in her voice softened.”"
+    },
+    {
+      "paragraph": 87,
+      "ordinal": 2,
+      "raw": "???: “Mind your training down there. The world below has teeth, and it is fond of things that shine. Come back to me whole, my dear sister.”"
+    },
+    {
+      "paragraph": 87,
+      "ordinal": 3,
+      "raw": "Arielle: “I will, Master.”"
+    },
+    {
+      "paragraph": 93,
+      "ordinal": 0,
+      "raw": "Narrator: \"This was how it had gone, the last time he was sure of anything. Beyond the tall glass, the city kept its lights on for nobody: towers, a long bridge, one drone making its rounds across the dark. All of it was clean, and humming, and finished. Inside, the lab kept a different kind of quiet, the blue hush of monitors and the faint sound of a mind being read.\""
+    },
+    {
+      "paragraph": 94,
+      "ordinal": 0,
+      "raw": "Narrator: \"In the pod, a man lay still. Headphones on, a dark visor over his eyes, so that nothing from this world would get in the way of the next. Seekers were chosen by how their minds sounded, and his sounded like something the Temple could hear.\""
+    },
+    {
+      "paragraph": 96,
+      "ordinal": 0,
+      "raw": "Narrator: \"Across the room, a woman watched the screens, brain after glowing brain, a cup of coffee warm in one hand. She moved the way people move when they have done something many times, or when they have decided not to look at the part that matters.\""
+    },
+    {
+      "paragraph": 97,
+      "ordinal": 0,
+      "raw": "Narrator: \"It began as a tremor. The floor, the screens, the whole city in the window, all of it jumped at once. It was not an earthquake. Time itself had stumbled, and everything inside it had stumbled too.\""
+    },
+    {
+      "paragraph": 98,
+      "ordinal": 0,
+      "raw": "Narrator: \"Behind the visor, he could not see any of it.\""
+    },
+    {
+      "paragraph": 100,
+      "ordinal": 0,
+      "raw": "Narrator: \"The coffee left the cup and hung in the air, a small brown moon, for exactly as long as it took her to understand what she was seeing.\""
+    },
+    {
+      "paragraph": 101,
+      "ordinal": 0,
+      "raw": "Narrator: \"Sparks, then smoke, then silence. Machines survive many things. A cup of coffee at the wrong second is not one of them. That is the version everyone agreed on.\""
+    },
+    {
+      "paragraph": 102,
+      "ordinal": 0,
+      "raw": "Female Colleague: “Tsk. And he was one of the promising ones. I have to inform Lord Siegmar right away.”"
+    },
+    {
+      "paragraph": 103,
+      "ordinal": 0,
+      "raw": "Narrator: \"Somewhere between one spark and the next, the room left me, without knowing how or where.\""
+    },
+    {
+      "paragraph": 106,
+      "ordinal": 0,
+      "raw": "Narrator: “The first thing to come back was the warmth. It did not arrive all at once; it seeped in, the way feeling returns to a hand that has been asleep, and it carried a voice with it, soft and patient, calling me up from somewhere very deep. Under my head there was something gentle.”"
+    },
+    {
+      "paragraph": 106,
+      "ordinal": 1,
+      "raw": "Narrator: “There was a meadow somewhere close, and wildflowers, and beyond them the quiet sound of water. The air smelled of cut grass and lake. The grass under your fingers was cool and real, and so were the fingers. It was all so far from the cold, humming place you remembered that your first thought was that it must be a mistake.”"
+    },
+    {
+      "paragraph": 106,
+      "ordinal": 2,
+      "raw": "???: “Hey… hey…”"
+    },
+    {
+      "paragraph": 106,
+      "ordinal": 3,
+      "raw": "???: “Can you hear me? Please wake up.”"
+    },
+    {
+      "paragraph": 107,
+      "ordinal": 0,
+      "raw": "Narrator: “Feeling crept back in, tugging me gently out of the abyss. I wanted to answer her. It took me a while to remember how.”"
+    },
+    {
+      "paragraph": 107,
+      "ordinal": 1,
+      "raw": "???: “You are all safe now, please open your eyes.”"
+    },
+    {
+      "paragraph": 110,
+      "ordinal": 0,
+      "raw": "Narrator: “You opened your eyes. A woman was looking down at you. She was no longer young; her face was lined with kindness, and with something steadier underneath it. A mantle of brown feathers lay across her shoulders and stirred in the breeze. Silver ran through her brown hair, and at her throat hung a small green star. Her eyes were a calm blue, faded by the passage of time. In the branches overhead, one dark bird sat very still and did not sing.”"
+    },
+    {
+      "paragraph": 112,
+      "ordinal": 0,
+      "raw": "Narrator: “The sun’s rays, warm but not overbearing, lay across my skin, and a soft breeze whispered through the air.”"
+    },
+    {
+      "paragraph": 113,
+      "ordinal": 0,
+      "raw": "Narrator: “My head was resting in her lap, under a tree so wide it seemed to hold the whole meadow in its shade, and its leaves broke the sunlight into a slow, playful dance of light and shadow around us. After the mechanical cold I remembered, it felt almost otherworldly: a pause in the relentless march of time, and a rare feeling of being cared for.”"
+    },
+    {
+      "paragraph": 113,
+      "ordinal": 1,
+      "raw": "Narrator: “Her smile was warm, and it had a kind of age in it that years alone do not give. It reminded me of my mother.”"
+    },
+    {
+      "paragraph": 114,
+      "ordinal": 0,
+      "raw": "MC: “Umm, who… are you?”"
+    },
+    {
+      "paragraph": 115,
+      "ordinal": 0,
+      "raw": "???: “Aren’t you a curious little one?”"
+    },
+    {
+      "paragraph": 116,
+      "ordinal": 0,
+      "raw": "???: “I am called Viviane. And you, young traveler?”"
+    },
+    {
+      "paragraph": 116,
+      "ordinal": 1,
+      "raw": "MC: “I’m … MC-NAME.”"
+    },
+    {
+      "paragraph": 117,
+      "ordinal": 0,
+      "raw": "Viviane: “A pleasure, MC-NAME. Welcome back to the realm of the waking. This human world has missed your footsteps.”"
+    },
+    {
+      "paragraph": 118,
+      "ordinal": 0,
+      "raw": "MC: “This human world? What do you mean?”"
+    },
+    {
+      "paragraph": 121,
+      "ordinal": 0,
+      "raw": "Narrator: “She did not answer at once. First she brushed a leaf out of your hair, unhurried, the way one tidies up a child before taking him somewhere important. Then she told you, and she said it as if it were the most ordinary thing in the world.”"
+    },
+    {
+      "paragraph": 122,
+      "ordinal": 0,
+      "raw": "Viviane: “You, Seeker, have been chosen by the Temple of Time. The path you tread is one I once walked; thus, I am to be your guide.”"
+    },
+    {
+      "paragraph": 123,
+      "ordinal": 0,
+      "raw": "Viviane: “I am Viviane Pendragon, keeper of the Star Lake Inn. An envoy of Elizariel brought word of your arrival, from ten years hence, no less. A fascinating twist of fate.”"
+    },
+    {
+      "paragraph": 124,
+      "ordinal": 0,
+      "raw": "Narrator: “Ten years. The angel at the gates had said it too, a decade, and you had let the word go by the way one lets a strange word go by in a dream. Here, in the sunlight, with the lake breathing somewhere beyond the trees, it was harder to let go of.”"
+    },
+    {
+      "paragraph": 125,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon: “The threads of time weave curious patterns indeed. For the coming months, you may call my inn your home, venture into our town, and immerse yourself in the ebb and flow of life here. Among our residents, you'll find company both lively and enlightening.”"
+    },
+    {
+      "paragraph": 126,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon: “For now, you can walk, right? Follow me to the Inn. We will talk more once I have shown you to your room.”"
+    },
+    {
+      "paragraph": 127,
+      "ordinal": 0,
+      "raw": "Narrator: “You could, as it turned out. Your legs had some opinions about it, but they came along.”"
+    },
+    {
+      "paragraph": 132,
+      "ordinal": 0,
+      "raw": "Narrator: “The Star Lake Inn was old in the comfortable way: dark beams, polished wood, and stairs that announced you before you arrived. Your room was at the top of them, small and clean, with a window full of rooftops, and a green hill beyond them, with the lake hiding somewhere behind it. With a little star carved into the headboard of the bed that was already made. Someone had put fresh wildflowers in a cup on the sill.”"
+    },
+    {
+      "paragraph": 133,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon: “As a Seeker, you're bound by a contract … or as Elizariel fondly terms it, a covenant. It's an ancient pact, steeped in responsibilities and privileges alike. Elizariel, with her timeless elegance, oversees these bonds. She's quite the figure, isn't she?”"
+    },
+    {
+      "paragraph": 134,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon: “Alongside this covenant, you've been blessed with a Guardian Angel from the Temple of Time. Though your guardian, seems momentarily adrift, such separations are but temporary. Fate has a way of reuniting those meant to walk the same path.”"
+    },
+    {
+      "paragraph": 135,
+      "ordinal": 0,
+      "raw": "MC: “Excuse me, you have been very nice and kind to me, but I’m afraid I don’t really follow. The Temple of Time? Guardian Angels? Elizariel? Contract? What does any of it mean?”"
+    },
+    {
+      "paragraph": 136,
+      "ordinal": 0,
+      "raw": "MC: “My memory is quite hazy and fragmented, I don’t really remember what happened. When I think back, I only have some glimpses of the past for the last years. What I do remember, more clearly, is what happened ‘on the other side’ or so it looked like to me, maybe that’s the Temple of Time you are talking about?”"
+    },
+    {
+      "paragraph": 137,
+      "ordinal": 0,
+      "raw": "Narrator: “So you told her. The dark tunnel, and the voice that had guided you through it. The girl in pink and white who called herself Arielle. The angel waiting at the golden gates. You found you remembered the angels in some detail. What you could not remember, however hard you tried, was signing anything or agreeing to a covenant.”"
+    },
+    {
+      "paragraph": 138,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon, her eyes twinkling with mirth: “Ah, I see your journey has already been graced with quite the celestial beauty. Arielle's golden presence and another, draped in the calm of the deep blue sky… Elizariel, no doubt. Your keen eye for their... shall we say, divine attributes, does not go unnoticed. It makes one ponder, had you met me in the springtime of my years, how would your memories have painted me, I wonder?”"
+    },
+    {
+      "paragraph": 139,
+      "ordinal": 0,
+      "raw": "Narrator: “You tried, briefly, to picture it. It was easier than it should have been.”"
+    },
+    {
+      "paragraph": 140,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon, with a playful glint in her eye: “Let not your heart be troubled. Fate has a peculiar way of knitting paths together. Your beautiful guardian angel and the profound covenant you share… these are secrets entwined with the very essence of the Temple, known only to a chosen few. Time has a way of aligning stars; yours and Arielle's paths will cross once more, in the moment most needed.”"
+    },
+    {
+      "paragraph": 141,
+      "ordinal": 0,
+      "raw": "Narrator: “Then the twinkle went out of her eyes, and for a moment she looked every one of her years, and a good many besides.”"
+    },
+    {
+      "paragraph": 142,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon, with solemnity: “Bearing the weight of two timelines, you must tread with utmost care. To cross paths with your past or those from it risks harming both of you.”"
+    },
+    {
+      "paragraph": 143,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon: \"Heed this warning… your past is a tapestry already woven. Interfere, and the strain may tear not just the fabric of your own being but the reality that surrounds us. When echoes of yourself collide, the dissonance risks unraveling the very essence of time.\""
+    },
+    {
+      "paragraph": 144,
+      "ordinal": 0,
+      "raw": "Narrator: “Then she smiled again, as if she had decided I’d been frightened enough for one afternoon.”"
+    },
+    {
+      "paragraph": 145,
+      "ordinal": 0,
+      "raw": "Viviane Pendragon, adopting a lighter tone: \"For the present, let the tranquility of this town be your canvas. As my nephew, MC Pendragon, you hail from the seclusion of the mountains, seeking to weave yourself into the broader tapestry of society here. Embrace this guise, engage with the town and its people. Pick up local jobs and try to meet the local girls, they might spice up your life until this Arielle shall find her way back to you.”"
+    },
+    {
+      "paragraph": 150,
+      "ordinal": 0,
+      "raw": "Narrator: “That night the bed at the Star Lake Inn was softer than anything you could remember, and the window was full of stars instead of signs. You meant to lie awake and think about everything she had told you. You did not manage it for long.”"
+    },
+    {
+      "paragraph": 153,
+      "ordinal": 0,
+      "raw": "Narrator: “You are home again. A small, clean apartment with an overviewing look of the city, a little bigger than one person needed and a great deal quieter, where the walls knew your name and the lights came on before you asked them to.”"
+    },
+    {
+      "paragraph": 154,
+      "ordinal": 0,
+      "raw": "Narrator: “Everything there was counted. Your steps, your meals, your hours, the minutes you spent standing at the window doing nothing at all. Nobody ever shouted at you about it. A notice simply arrived, polite and final, and the next week there was a little less of everything.”"
+    },
+    {
+      "paragraph": 155,
+      "ordinal": 0,
+      "raw": "Narrator: “Dinner was made by the home bot. It could practically cook by itself now; that had been the upgrade. It set one plate, because there was one of you, and it never once asked how your day had been.”"
+    },
+    {
+      "paragraph": 156,
+      "ordinal": 0,
+      "raw": "Narrator: “I had survived a war to sit at that table. Some nights I could not remember why.”"
+    },
+    {
+      "paragraph": 157,
+      "ordinal": 0,
+      "raw": "Narrator: “The march of progress had outpaced the people it was meant to carry. Cities that were once loud with argument and invention had turned into vast, efficient machines, and the streets below hummed with automated vehicles, a mechanical ballet performed in a silence with no chatter and no laughter in it.”"
+    },
+    {
+      "paragraph": 158,
+      "ordinal": 0,
+      "raw": "Narrator: “People passed one another with their eyes glued to screens, and the world in front of them faded a little more each day.”"
+    },
+    {
+      "paragraph": 161,
+      "ordinal": 0,
+      "raw": "Narrator: “And amidst this mechanized existence, people have lost their drive, their purpose. Ambition and dreams, once the driving force of progress, are dulled by the relentless march of automation. A world where the heartbeats of life. Passion, creativity, spontaneity, is smothered by the chill of technology.”"
+    },
+    {
+      "paragraph": 162,
+      "ordinal": 0,
+      "raw": "MC: \"This existence... it's suffocating. Every action monitored, every deviation from the norm flagged. Step out of line, and you're penalized, constrained by invisible chains. One more violation and …”"
+    },
+    {
+      "paragraph": 163,
+      "ordinal": 0,
+      "raw": "MC: “Can I truly be alone in my dissent? There must be others yearning to break free.\""
+    },
+    {
+      "paragraph": 167,
+      "ordinal": 0,
+      "raw": "Narrator: “And finally, something caught your attention.”"
+    },
+    {
+      "paragraph": 171,
+      "ordinal": 0,
+      "raw": "Narrator: “For the first time in a long while, you smiled.”"
+    },
+    {
+      "paragraph": 172,
+      "ordinal": 0,
+      "raw": "MC: \"Since the Automation War reshaped our world, this is the first flicker of defiance, of passion, I've seen.\""
+    },
+    {
+      "paragraph": 175,
+      "ordinal": 0,
+      "raw": "Narrator: “And so, the first morning came, with birdsongs instead of a buzz.”"
+    },
+    {
+      "paragraph": 176,
+      "ordinal": 0,
+      "raw": "MC: “Time to pick a job for this week.”"
+    },
+    {
+      "paragraph": 180,
+      "ordinal": 0,
+      "raw": "Viviane, with a warm and impressed tone: “Truly, I hadn't anticipated such culinary finesse from you. Your dishes have become the talk of the inn today, much to the delight of our guests.”"
+    },
+    {
+      "paragraph": 181,
+      "ordinal": 0,
+      "raw": "Viviane, with a guiding smile: “Now that you've wrapped up here, the town awaits your exploration. There’s much to see and even more to learn.”"
+    },
+    {
+      "paragraph": 186,
+      "ordinal": 0,
+      "raw": "Arthur Nightingale: \"Hello, I'm running a library in this town of Elysium. I could use an extra pair of hands. You can come work as my assistant. There’s much to learn and discover, even in a library.\""
+    },
+    {
+      "paragraph": 188,
+      "ordinal": 0,
+      "raw": "Henry Crust: \"Good day! I run the local bakery and could use an apprentice. Roll up your sleeves and let’s get to work. When you're ready you can pick up a job at our place.\""
+    },
+    {
+      "paragraph": 190,
+      "ordinal": 0,
+      "raw": "Tom Crust: \"Hello there, I manage the grocery store here in Elysium. We need an extra store clerk. Get ready to handle inventory and customers. Feel free to stop by and take your shot at this job.\""
+    },
+    {
+      "paragraph": 192,
+      "ordinal": 0,
+      "raw": "Nathan Fairchild: \"Hey there! I’m Nathan. We could use an extra hand around the bar. Interested in mixing drinks and meeting people? I might even introduce you to the girls around here.\""
+    },
+    {
+      "paragraph": 193,
+      "ordinal": 0,
+      "raw": "Abigail Stone: \"What do you want? Make it quick, I've got things to do. I don't have time for babysitting.\""
+    },
+    {
+      "paragraph": 194,
+      "ordinal": 0,
+      "raw": "Christine Smith: \"Hey there! I'm Christine, the blacksmith. Always got my hands full here. If you're up for some hard work and a bit of fun, come by and we’ll make a blacksmith out of you in no time!\""
+    },
+    {
+      "paragraph": 195,
+      "ordinal": 0,
+      "raw": "Sophie Fairchild: \"Hi there, I’m a new waitress here. I might spill a drink or two, but I promise I’ll make it right with a smile!\""
+    },
+    {
+      "paragraph": 195,
+      "ordinal": 1,
+      "raw": "Michael Carter: \"Welcome to our church. If you ever need guidance or have questions about faith, feel free to come by. We're here to help.\""
+    },
+    {
+      "paragraph": 182,
+      "ordinal": 0,
+      "raw": "MC: “It’s really gotten late. Time to head back to the inn and catch some rest.”"
+    },
+    {
+      "paragraph": 183,
+      "ordinal": 0,
+      "raw": "MC: “A good day's work deserves a good night's rest.”"
+    },
+    {
+      "paragraph": 200,
+      "ordinal": 0,
+      "raw": "Narrator: “It was not much to look at: a tired building at the edge of the city, where the robots in the street were fewer and older, and nobody had bothered to make anything shine.”"
+    },
+    {
+      "paragraph": 201,
+      "ordinal": 0,
+      "raw": "Narrator: “Ten years earlier, I would have walked past that door with everyone else. I had dreams back then, small ones, and I never did much about them; getting through the day took up all the room. Now, behind that door, there were supposed to be people who still dreamed.”"
+    },
+    {
+      "paragraph": 204,
+      "ordinal": 0,
+      "raw": "Narrator: “The reception was dim and smelled of old paper. Behind the desk sat a man who had clearly lived a long time and had no intention of being finished yet.”"
+    },
+    {
+      "paragraph": 205,
+      "ordinal": 0,
+      "raw": "???, aged yet vibrant: “Tell me, child, do dreams still visit you?”"
+    },
+    {
+      "paragraph": 205,
+      "ordinal": 1,
+      "raw": "MC, amidst the dream with a hint of resignation: “Huh, child? The years have claimed over four decades from me, my friend. Childish dreams are long gone, replaced by a resolve to 'strive forward.'”"
+    },
+    {
+      "paragraph": 206,
+      "ordinal": 0,
+      "raw": "???: \"Yet, there's a glimmer in your gaze, unmistakable and rare in this era. Hope, I daresay, clings to you still.\""
+    },
+    {
+      "paragraph": 207,
+      "ordinal": 0,
+      "raw": "???: “Boss. We got a new one. He looks to still have it.”"
+    },
+    {
+      "paragraph": 208,
+      "ordinal": 0,
+      "raw": "??? Older Man Sprite/Boss: “We are the Carpenters. State your purpose within our sanctuary.”"
+    },
+    {
+      "paragraph": 209,
+      "ordinal": 0,
+      "raw": "Narrator: “The voice that answered came from somewhere deeper in the building, and it did not sound like a voice that asked anything twice.”"
+    },
+    {
+      "paragraph": 210,
+      "ordinal": 0,
+      "raw": "MC, amidst the dream with a mix of resolve and curiosity: “I am looking for something that no longer exists, and maybe, time is the answer.”"
+    },
+    {
+      "paragraph": 211,
+      "ordinal": 0,
+      "raw": "??? Older Man Sprite/Boss: “You came knocking to our doors for such a reason? I see that you still have it, yes. You managed to avoid the Automation War?”"
+    },
+    {
+      "paragraph": 212,
+      "ordinal": 0,
+      "raw": "MC, amidst the dream: “I’m afraid that information is confidential. However, if you do permit me to join your group, I will reveal what I know.”"
+    },
+    {
+      "paragraph": 212,
+      "ordinal": 1,
+      "raw": "??? Older Man Sprite/Boss: “A negotiation from such grounds? Bold indeed.”"
+    },
+    {
+      "paragraph": 213,
+      "ordinal": 0,
+      "raw": "Narrator: “Something in the deep voice shifted. It took you a moment to recognize it as amusement.”"
+    },
+    {
+      "paragraph": 214,
+      "ordinal": 0,
+      "raw": "Narrator: “At the end of the day, the difference between bravery and stupidity is just the outcome.”"
+    },
+    {
+      "paragraph": 217,
+      "ordinal": 0,
+      "raw": "Narrator: “By day, the lab looked almost harmless. Sunlight came through the tall glass and lay across the cables on the floor, across the screens full of other people’s brains, across the pod in the corner, open and empty, with a pair of headphones hanging from its frame.”"
+    },
+    {
+      "paragraph": 218,
+      "ordinal": 0,
+      "raw": "???: “I can’t believe Boss let you in. Luck's on your side, huh?”"
+    },
+    {
+      "paragraph": 218,
+      "ordinal": 1,
+      "raw": "MC, amidst the dream: “Luck's been a strange companion. Never thought it'd lead me here, though.”"
+    },
+    {
+      "paragraph": 219,
+      "ordinal": 0,
+      "raw": "???: “Lucky, maybe. Yet, not lucky enough to win at chess against the Boss. Our funds must be dire if you're in.”"
+    },
+    {
+      "paragraph": 220,
+      "ordinal": 0,
+      "raw": "???  - Female Scientist, somber: “You were part of the Automation War, weren't you? Human survivors are rare. But remember, luck runs out.”"
+    },
+    {
+      "paragraph": 221,
+      "ordinal": 0,
+      "raw": "Narrator: “She said it quietly, without looking up from her screen.”"
+    },
+    {
+      "paragraph": 222,
+      "ordinal": 0,
+      "raw": "MC, amidst the dream: “As if I chose to survive. I was in Cyber Ops, specialized in AI and robotics. I was supposed to die with everyone else, in the fire the enemy’s robotics division started. Yet, the nihilist got out.”"
+    },
+    {
+      "paragraph": 223,
+      "ordinal": 0,
+      "raw": "Narrator: “Nobody laughed. Somebody changed the subject, which is what people do when they have just heard something true.”"
+    },
+    {
+      "paragraph": 224,
+      "ordinal": 0,
+      "raw": "??? -  Female Scientist: “And still, you shun coffee. The lifeblood of late nights and early mornings.”"
+    },
+    {
+      "paragraph": 225,
+      "ordinal": 0,
+      "raw": "MC, amidst the dream, amused: “What can I say? Never felt the pull, especially with its penchant for wreaking havoc on electronics, right?”"
+    },
+    {
+      "paragraph": 228,
+      "ordinal": 0,
+      "raw": "Narrator: “Some evenings, the ones who stayed late ended up on the old couch in the corner, where the light from the screens did not quite reach. There was a woman beside you, more often than not, close enough that your shoulders touched.”"
+    },
+    {
+      "paragraph": 228,
+      "ordinal": 1,
+      "raw": "Narrator: “I could never quite remember her face. I remembered laughing, though. I had not done much of that since the war.”"
+    },
+    {
+      "paragraph": 228,
+      "ordinal": 2,
+      "raw": "???, with a burst of excitement: “Listen up, everyone! We've hit a milestone… the Temple of Time is real!”"
+    },
+    {
+      "paragraph": 228,
+      "ordinal": 3,
+      "raw": "MC: “The Temple of Time?”"
+    },
+    {
+      "paragraph": 228,
+      "ordinal": 4,
+      "raw": "???: “Precisely, newcomer. A relic granting passage through time, a marvel beyond the reach of automatons.”"
+    },
+    {
+      "paragraph": 228,
+      "ordinal": 5,
+      "raw": "MC: “Wait, really? That sounds great! We actually achieved something, we managed to make a discovery that truly is beyond machines.”"
+    },
+    {
+      "paragraph": 228,
+      "ordinal": 6,
+      "raw": "???: “Heh, you are still stuck on comparing humans to machines! Imbecile, we are above that! However, there’s a problem. Our colleague who managed to find it… died.”"
+    },
+    {
+      "paragraph": 229,
+      "ordinal": 0,
+      "raw": "Narrator: “The room went quiet. Beside you, the woman went very still.”"
+    },
+    {
+      "paragraph": 229,
+      "ordinal": 1,
+      "raw": "??? Female Scientist: “You two here are the ones whose brain waves are similar to his. From now on, you will join the experiment as Seekers. You will seek out this Temple of Time, carve the path to that place, and then report back to us.”"
+    },
+    {
+      "paragraph": 233,
+      "ordinal": 0,
+      "raw": "MC: “Another dream, and still no sign of Arielle. I’ll focus on the day ahead and plan during the weekend."
+    },
+    {
+      "paragraph": 240,
+      "ordinal": 0,
+      "raw": "MC: “Huh? No dream this time around? And now it’s the weekend, I can do whatever I want.”"
+    },
+    {
+      "paragraph": 240,
+      "ordinal": 1,
+      "raw": "MC: “Still no sign of Arielle anywhere, I still don’t know what contract or covenant I got myself involved in.”"
+    },
+    {
+      "paragraph": 240,
+      "ordinal": 2,
+      "raw": "MC, a hint of mischief in his thoughts: \"But this town isn’t all mysteries and covenants. There are some pretty interesting people here... especially the girls. Maybe it’s time for a different kind of exploring.\""
+    },
+    {
+      "paragraph": 242,
+      "ordinal": 0,
+      "raw": "Narrator: “You did not get far with that plan. Your phone buzzed first.”"
+    },
+    {
+      "paragraph": 243,
+      "ordinal": 0,
+      "raw": "Viviane: “Good morning, my dear. Forgive an old woman her struggle with these modern contraptions; a lady such as myself has more interesting tales to tell. Yet it is not stories I bring you today, but a lead. There is something of great interest to you, head to the Military Branch HQ.”"
+    },
+    {
+      "paragraph": 244,
+      "ordinal": 0,
+      "raw": "MC: “Enlisting in the military? Again? It seems history does indeed love to repeat itself. And yet, my memories of the Automation War remain shrouded in fog. What secrets does my past future hold?”"
+    },
+    {
+      "paragraph": 245,
+      "ordinal": 0,
+      "raw": "Narrator: “And when you stepped outside, the town had gone quiet. No one at the bakery window, no carts on the road, not even the birds. Elysium had stopped the way a held breath stops, and every street seemed to lean the same way: toward the Military Branch.”"
+    },
+    {
+      "paragraph": 249,
+      "ordinal": 0,
+      "raw": "MC: \"Hello, are you a member of the military?\""
+    },
+    {
+      "paragraph": 250,
+      "ordinal": 0,
+      "raw": "Guard: \"Yes, can't you see these awesome muscles? this amazing helmet? and my big gun?\""
+    },
+    {
+      "paragraph": 251,
+      "ordinal": 0,
+      "raw": "MC, taken slightly aback: \"Ah.. yes, how stupid of me to ask such a thing, but are you guys recruiting? I believe I'm interested in joining the military.\""
+    },
+    {
+      "paragraph": 252,
+      "ordinal": 0,
+      "raw": "Guard, slightly irritated: \"Oh great, another one.... yes, yes, we are still recruiting.\""
+    },
+    {
+      "paragraph": 253,
+      "ordinal": 0,
+      "raw": "MC: \"Excellent! What do I need to do to sign up?\""
+    },
+    {
+      "paragraph": 254,
+      "ordinal": 0,
+      "raw": "Guard: \"First, we'll need to see if you can handle yourself. Follow me to the training area, and we'll put you through a basic combat drill.\""
+    },
+    {
+      "paragraph": 259,
+      "ordinal": 0,
+      "raw": "Narrator: “The room was all maps and hard chairs, lit by a single lamp hanging low over the table, as if it were listening in. A grey morning pressed against the window, and beyond it the rooftops of Elysium went on with their quiet Saturday.”"
+    },
+    {
+      "paragraph": 260,
+      "ordinal": 0,
+      "raw": "Narrator: “The older man leaned on the table with both fists, as if the maps might try to leave without permission. A long midnight-blue coat, silver at the shoulders, grey coming in at his temples, and a silver star pinned over his heart. Across from him, a younger man with the same jaw and hair the color of embers leaned in too, one hand open, a gauntlet glowing soft blue on his forearm, trying very hard to be heard.”"
+    },
+    {
+      "paragraph": 260,
+      "ordinal": 1,
+      "raw": "Narrator: “Neither of them had noticed the door open. It was the kind of argument that had started long before today, and would not be finished today either.”"
+    },
+    {
+      "paragraph": 261,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"Recruitment numbers are still below projections, Lohen. At this rate, our readiness could be compromised.\""
+    },
+    {
+      "paragraph": 261,
+      "ordinal": 1,
+      "raw": "Lohen Blackwood: “Then stop hiding half of what we do from our own people! Nobody signs up to guard doors they’re never allowed to open. If we were honest with them, maybe...”"
+    },
+    {
+      "paragraph": 262,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood, cutting him off: \"Discipline does not need explanations. Our methods have stood the test of time.\""
+    },
+    {
+      "paragraph": 265,
+      "ordinal": 0,
+      "raw": "Narrator: “Two pairs of blue eyes turned to the door at once.”"
+    },
+    {
+      "paragraph": 265,
+      "ordinal": 1,
+      "raw": "Narrator: “The younger one had been caught in the middle of a point he would now never finish, his hand still raised.”"
+    },
+    {
+      "paragraph": 265,
+      "ordinal": 2,
+      "raw": "Narrator: “The older one only straightened a little. He looked at you the way one looks at a point about to be proven.”"
+    },
+    {
+      "paragraph": 266,
+      "ordinal": 0,
+      "raw": "Guard: “Excuse me, General, I have brought a new volunteer who wishes to join us.”"
+    },
+    {
+      "paragraph": 268,
+      "ordinal": 0,
+      "raw": "Narrator: “The younger man’s face changed, and you found yourself wondering what exactly these two were to each other, and, more importantly, what they had been arguing about.”"
+    },
+    {
+      "paragraph": 268,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: \"Ah, a potential recruit. You’re just in time to prove me right.”"
+    },
+    {
+      "paragraph": 269,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: “Name?\""
+    },
+    {
+      "paragraph": 269,
+      "ordinal": 1,
+      "raw": "MC: “I’m MC-NAME. What’s the argument about?”"
+    },
+    {
+      "paragraph": 270,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: “That information is confidential. However, if you manage to join us, you might just earn the right to learn more.”"
+    },
+    {
+      "paragraph": 270,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: “Lohen. Since you care so much about our recruits, you can test this one.”"
+    },
+    {
+      "paragraph": 271,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood: “Yes sir.”"
+    },
+    {
+      "paragraph": 274,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood: “Here, you'll face a couple of challenges to test your abilities. Do your best.”"
+    },
+    {
+      "paragraph": 274,
+      "ordinal": 1,
+      "raw": "MC, in a good mood: “Thanks”"
+    },
+    {
+      "paragraph": 276,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood, impressed: “Not bad at all, that might even be a new record for the recruits.”"
+    },
+    {
+      "paragraph": 278,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood, alarmed: \"Damn, things were going too well! We have an emergency. Follow me, we need to evacuate immediately!”"
+    },
+    {
+      "paragraph": 281,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood, surprised: “Is that… Natalie? Why isn’t she evacuating?”"
+    },
+    {
+      "paragraph": 283,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood, surprised: “You know what MC, I have to take a detour, just keep moving forward and you’ll be out of here.”"
+    },
+    {
+      "paragraph": 287,
+      "ordinal": 0,
+      "raw": "Narrator: “Through the glass, far below, the warehouse floor had turned red. Caged lamps burned along the walls, and in their light a girl with a red ponytail sat cross-legged against the far wall, alone, eyes closed, hands resting open on her knees, as if the alarm were ringing for somebody else.”"
+    },
+    {
+      "paragraph": 287,
+      "ordinal": 1,
+      "raw": "Narrator: “The rest of the floor was moving. Shadows, dozens of them: things that walked like men and things that ran like wolves, something with far too many tails, something crawling along the wall behind the pillars. Every one of them was turned toward her.”"
+    },
+    {
+      "paragraph": 288,
+      "ordinal": 0,
+      "raw": "Narrator: “She was beautiful, and I could not look away from her, not even for a moment. She did not move and I could tell, this Natalie was in trouble, yet strangely still in control.”"
+    },
+    {
+      "paragraph": 289,
+      "ordinal": 0,
+      "raw": "MC, looking through the window, puzzled: \"What are those?\""
+    },
+    {
+      "paragraph": 290,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood, urging: \"You don’t need to find out. It looks dangerous; just go!\""
+    },
+    {
+      "paragraph": 293,
+      "ordinal": 0,
+      "raw": "???, horrified: \"Lohen, noooooooo!!!!\""
+    },
+    {
+      "paragraph": 297,
+      "ordinal": 0,
+      "raw": "MC, in awe: \"Are these the shadows I saw?”"
+    },
+    {
+      "paragraph": 302,
+      "ordinal": 0,
+      "raw": "Narrator: “The warehouse was chaos. Red lamps stuttered along the walls, shots cracked off the concrete, and the floor between them was alive with shadows.”"
+    },
+    {
+      "paragraph": 304,
+      "ordinal": 0,
+      "raw": "Narrator: “At the edge of it all stood Lohen, helmet still on, smiling like a man in a pleasant dream. A woman made of shadow stood close in front of him, fox ears and a long ponytail, her dark fingers resting on his face as if she had every right to them. And behind him, her arms around his shoulders, was someone else: red hair, dark wings, and… a smile.”"
+    },
+    {
+      "paragraph": 306,
+      "ordinal": 0,
+      "raw": "Narrator: “Across the floor, his sister knelt behind a rifle, teeth bared, firing again and again into the dark, while a creature made of fire leapt from shadow to shadow beside her.”"
+    },
+    {
+      "paragraph": 307,
+      "ordinal": 0,
+      "raw": "Natalie Blackwood, shouting: “LET GO OF MY BROTHER!!!!”"
+    },
+    {
+      "paragraph": 308,
+      "ordinal": 0,
+      "raw": "Narrator: “It did nothing. For every shadow she put down, another rose in its place, and even when the fire burned one away, there were always more.”"
+    },
+    {
+      "paragraph": 312,
+      "ordinal": 0,
+      "raw": "Narrator: “And then, between one shot and the next, the woman at Lohen’s back was gone. You had not seen her leave.”"
+    },
+    {
+      "paragraph": 312,
+      "ordinal": 1,
+      "raw": "MC, determined: “I need to help them! But how?!”"
+    },
+    {
+      "paragraph": 317,
+      "ordinal": 0,
+      "raw": "\"If ----ing you -- a ---, I w--- ----ly --come - sin---\""
+    },
+    {
+      "paragraph": 320,
+      "ordinal": 0,
+      "raw": "MC: “Ah, that Black Rod!!”"
+    },
+    {
+      "paragraph": 321,
+      "ordinal": 0,
+      "raw": "Narrator: “In all that chaos, you remembered it: something that should not exist in this world, and yet it was yours, and yours alone.”"
+    },
+    {
+      "paragraph": 321,
+      "ordinal": 1,
+      "raw": "Narrator: “With it in your hand, for the first time you felt you could be of some use against this onslaught of shadows.”"
+    },
+    {
+      "paragraph": 322,
+      "ordinal": 0,
+      "raw": "Narrator: “Somewhere in the dark, a voice laughed, and it was not coming from any of the shadows you could see.”"
+    },
+    {
+      "paragraph": 323,
+      "ordinal": 0,
+      "raw": "??? – prologue Succubus: “Looks like we have uninvited guests…”"
+    },
+    {
+      "paragraph": 323,
+      "ordinal": 1,
+      "raw": "??? – prologue Succubus: “Don’t spoil my fun. I’m still collecting my reward for all this.”"
+    },
+    {
+      "paragraph": 323,
+      "ordinal": 2,
+      "raw": "??? – prologue Succubus: “After all, there are so many delicious ‘treasures’ down here... Miss Redhead included.”"
+    },
+    {
+      "paragraph": 325,
+      "ordinal": 0,
+      "raw": "??? - amused: “You know, I think I’ve just found the best treasure of all! Hahaha.”"
+    },
+    {
+      "paragraph": 330,
+      "ordinal": 0,
+      "raw": "Narrator: “The danger had not passed. For a moment there was relief, but only for you.”"
+    },
+    {
+      "paragraph": 331,
+      "ordinal": 0,
+      "raw": "Narrator: “With Lohen finally released from the Shadow’s seduction, Natalie had dropped her rifle. She was on her knees, one hand flat on the concrete, the other clutching at her chest.”"
+    },
+    {
+      "paragraph": 332,
+      "ordinal": 0,
+      "raw": "Narrator: “Thin red lines glowed under her skin, at her throat and across her hand, like cracks in a stove with the fire still going. Whatever the succubus had left behind in her was burning, and she was fighting it with everything she had left, which was not much.”"
+    },
+    {
+      "paragraph": 333,
+      "ordinal": 0,
+      "raw": "Narrator: “She looked as if she were burning, in pain, suffering. So I decided to approach her.”"
+    },
+    {
+      "paragraph": 335,
+      "ordinal": 0,
+      "raw": "Narrator: “But when I got close, what I saw was not so much pain as something else entirely.”"
+    },
+    {
+      "paragraph": 336,
+      "ordinal": 0,
+      "raw": "Natalie Blackwood, struggling for breath and visibly shaken: “She... got... into... my... mind...”"
+    },
+    {
+      "paragraph": 337,
+      "ordinal": 0,
+      "raw": "Narrator: “She looked up at me as if she could not decide whether I was help, or the next thing she would have to fight.”"
+    },
+    {
+      "paragraph": 338,
+      "ordinal": 0,
+      "raw": "Narrator: “Or, as I looked at her, for one brief second the word that crossed my mind was ‘devour’.”"
+    },
+    {
+      "paragraph": 340,
+      "ordinal": 0,
+      "raw": "Natalie Blackwood, murmuring incoherently: “Ahh… aaa …… ahhh ...so...warm...can’t...think...”"
+    },
+    {
+      "paragraph": 341,
+      "ordinal": 0,
+      "raw": "Narrator: “Her eyes would not settle on you. Whatever the succubus had lit in her was still burning, and it was winning.”"
+    },
+    {
+      "paragraph": 344,
+      "ordinal": 0,
+      "raw": "Natalie Blackwood, murmuring incoherently: “Ahh… aaa …… ahhh ...so...warm...can’t...think...”"
+    },
+    {
+      "paragraph": 345,
+      "ordinal": 0,
+      "raw": "Natalie Blackwood, struggling to articulate: \" Ahh…aaa ……no... more... please... it's too... much...\""
+    },
+    {
+      "paragraph": 350,
+      "ordinal": 0,
+      "raw": "Narrator: “The room beyond the door was small and red, and in it, a circle of pale blue light burned in the floor. It looked like a magic circle, and it seemed to be draining the life out of whoever knelt before it.”"
+    },
+    {
+      "paragraph": 351,
+      "ordinal": 0,
+      "raw": "Narrator: “Behind that circle, on her knees and chained to the wall, was the girl in pink and white who had called herself Arielle.”"
+    },
+    {
+      "paragraph": 352,
+      "ordinal": 0,
+      "raw": "Narrator: “Her wings hung torn and ragged behind her, and white feathers lay scattered across the concrete. The succubus was bent over her, one hand tilting Arielle’s chin up, as if she were deciding where to begin.”"
+    },
+    {
+      "paragraph": 353,
+      "ordinal": 0,
+      "raw": "???, delighted: “One does not often get to take such a treat. The previous two were surprisingly delightful, but you, my dear, you’ll be the crème of this dessert.”"
+    },
+    {
+      "paragraph": 358,
+      "ordinal": 0,
+      "raw": "Narrator: “She might not have heard you approaching. Her shadows did.”"
+    },
+    {
+      "paragraph": 359,
+      "ordinal": 0,
+      "raw": "Narrator:  “They had been waiting on either side of the door, and they were done waiting.”"
+    },
+    {
+      "paragraph": 364,
+      "ordinal": 0,
+      "raw": "Narrator: “Your blow landed. The succubus came apart into a cloud of dark mist, and the mist slid away into the cracks of the walls, laughing, until nothing was left of her but the smell.”"
+    },
+    {
+      "paragraph": 365,
+      "ordinal": 0,
+      "raw": "Narrator: “Arielle was still on her knees, her arms chained above her head. The spell circle was still active.”"
+    },
+    {
+      "paragraph": 366,
+      "ordinal": 0,
+      "raw": "Narrator: “Whatever the succubus had started was still inside her; you could see it in the way she breathed, short and shallow, as if the air itself had become too warm.”"
+    },
+    {
+      "paragraph": 369,
+      "ordinal": 0,
+      "raw": "Narrator: “The last time I had seen her, she had stood beside me with a promise to carve a new future. Now her wings were in tatters, her arms were scraped raw against the chains, and there were tears on her face that she did not seem to know about.”"
+    },
+    {
+      "paragraph": 370,
+      "ordinal": 0,
+      "raw": "Narrator: “I had never wanted to hurt anyone as much as I wanted to hurt whoever had done this to her.”"
+    },
+    {
+      "paragraph": 373,
+      "ordinal": 0,
+      "raw": "Arielle, breathlessly: “Ahh….MC-NAME?...”"
+    },
+    {
+      "paragraph": 373,
+      "ordinal": 1,
+      "raw": "MC: “Arielle, are you all right?”"
+    },
+    {
+      "paragraph": 373,
+      "ordinal": 2,
+      "raw": "Arielle, murmuring incoherently: “I… yes… no … ahh…. Come… closer….”"
+    },
+    {
+      "paragraph": 373,
+      "ordinal": 3,
+      "raw": "MC, approaching cautiously: “It’s okay, I’ll get you out of here.”"
+    },
+    {
+      "paragraph": 374,
+      "ordinal": 0,
+      "raw": "Narrator: “In that moment, you wanted nothing more than to get her out. You steadied her with one hand at her waist and reached for the cuffs with the other, trying to work out how they opened. You never did find out.”"
+    },
+    {
+      "paragraph": 376,
+      "ordinal": 0,
+      "raw": "Narrator: “Arielle leaned forward as far as the chains would let her and kissed you.”"
+    },
+    {
+      "paragraph": 376,
+      "ordinal": 1,
+      "raw": "Narrator: “It was not a gentle kiss, and it was not a long one. It tasted of salt from her tears, and of something warm that did not belong to her.”"
+    },
+    {
+      "paragraph": 376,
+      "ordinal": 2,
+      "raw": "Narrator: “Then her halo brightened, and the first sparks lifted from her hair.”"
+    },
+    {
+      "paragraph": 379,
+      "ordinal": 0,
+      "raw": "Narrator: “Then she began to shine. It was a gentle light, like morning on the lake, and she smiled against my lips, tired and a little sorry, while she came apart into thousands of tiny sparks.”"
+    },
+    {
+      "paragraph": 380,
+      "ordinal": 0,
+      "raw": "Narrator: “For a moment the sparks hung in the air between us. Then the chains were empty.”"
+    },
+    {
+      "paragraph": 380,
+      "ordinal": 1,
+      "raw": "Narrator: “I was still reaching for her when the last of them went out.”"
+    },
+    {
+      "paragraph": 386,
+      "ordinal": 0,
+      "raw": "Narrator: “The warehouse was full of soldiers now, and every rifle in it was pointed at you. Of Natalie and Lohen there was no sign at all.”"
+    },
+    {
+      "paragraph": 387,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood, sternly: \"MC-NAME, what are you doing here? Give me two reasons why you should still be breathing. You have 30 seconds.\""
+    },
+    {
+      "paragraph": 388,
+      "ordinal": 0,
+      "raw": "Narrator: “Then your legs gave out, and the floor came up to meet you somewhere near the General’s boots.”"
+    },
+    {
+      "paragraph": 389,
+      "ordinal": 0,
+      "raw": "MC, panting, exhausted after the fighting: \"I... need water...\""
+    },
+    {
+      "paragraph": 390,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood, irritated: \"Get him some water.\""
+    },
+    {
+      "paragraph": 391,
+      "ordinal": 0,
+      "raw": "Narrator: “A soldier came running with a canteen. You drank most of it lying down; the rest went down your shirt. Nobody lowered their rifle.”"
+    },
+    {
+      "paragraph": 391,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: \"Let's restart that clock. What are you doing here, MC-NAME?\""
+    },
+    {
+      "paragraph": 391,
+      "ordinal": 2,
+      "raw": "MC, recovering slightly: \"There were shadows... everywhere. They attacked Lohen and that girl. There was a beautiful girl with red hair down here, fighting them.\""
+    },
+    {
+      "paragraph": 391,
+      "ordinal": 3,
+      "raw": "General Edward Blackwood, pressing: \"Don’t make me repeat myself. What were you doing in the other room?\""
+    },
+    {
+      "paragraph": 391,
+      "ordinal": 4,
+      "raw": "MC, cautiously: \"I wanted to help. The shadows gathered together and moved into that room. I chased after them and... defeated the monster.\""
+    },
+    {
+      "paragraph": 391,
+      "ordinal": 5,
+      "raw": "General Edward Blackwood: \"What was in that room?\""
+    },
+    {
+      "paragraph": 391,
+      "ordinal": 6,
+      "raw": "MC, hesitating but continuing: \"A woman... a crazy woman, but she wasn’t just a woman… she was a monster, with unnatural ears and blinding speed. With every attack, I felt as if a part of my soul was shattering...\""
+    },
+    {
+      "paragraph": 392,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: “How were you able to face that? Where is she now?”"
+    },
+    {
+      "paragraph": 393,
+      "ordinal": 0,
+      "raw": "Narrator: “You had no strength left to stand, so you held it up from the floor instead: a short black rod, plain at first glance, with thin lines running along it that caught the cold light of the lamp and glowed a faint violet. Every rifle in the room followed it.”"
+    },
+    {
+      "paragraph": 393,
+      "ordinal": 1,
+      "raw": "MC, presenting the Black Rod: “With this. After I hit her, she turned into a dark cloud…”"
+    },
+    {
+      "paragraph": 393,
+      "ordinal": 2,
+      "raw": "General Edward Blackwood, surprised: “What?”"
+    },
+    {
+      "paragraph": 399,
+      "ordinal": 0,
+      "raw": "Narrator: “The first thing to come back, this time, was the smell: disinfectant, starch and, somewhere underneath it, smoke. You were lying in a narrow bed, the first in a row of five, in a long room where the lamps had been turned down low.”"
+    },
+    {
+      "paragraph": 399,
+      "ordinal": 1,
+      "raw": "Narrator: “In the bed beside yours, Natalie lay asleep with her red hair spread across the pillow, very pale and very still. Beyond her, Lohen sat propped up against the headboard, bandaged and awake. And at the foot of your bed stood the General, arms folded, looking at you with something that was nearly concern and was trying hard not to be.”"
+    },
+    {
+      "paragraph": 400,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood, his tone softer but still authoritative: \"You’re finally awake. It seems you passed out.\""
+    },
+    {
+      "paragraph": 401,
+      "ordinal": 0,
+      "raw": "MC, slightly confused: “Where am I?”"
+    },
+    {
+      "paragraph": 401,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: “In our infirmary, and present here is the beautiful princess you rushed to save.”"
+    },
+    {
+      "paragraph": 401,
+      "ordinal": 2,
+      "raw": "Lohen Blackwood, with a grin: “Comes in, aces all the new recruit tests and then goes for my sister, this guy really wastes no time eh? Haha”"
+    },
+    {
+      "paragraph": 402,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood, tone shifts to serious: “General, what was that? Even I was unable to deal with those shadows. Natalie was in danger and even now she’s not conscious.”"
+    },
+    {
+      "paragraph": 403,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood: “If it wasn’t for MC-NAME rushing back to us, who knows, maybe she wouldn’t even be alive anymore. I can’t believe this happened, what’s going on?”"
+    },
+    {
+      "paragraph": 404,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"Under normal circumstances, this would end here, and you would be forced to forget everything that happened. However, I decided to take into account your suggestion from this morning, Lohen. Be proud.\""
+    },
+    {
+      "paragraph": 405,
+      "ordinal": 0,
+      "raw": "Narrator: “It was the closest thing to praise Lohen had heard from his father in a long time, and he did not seem to know where to put it.”"
+    },
+    {
+      "paragraph": 405,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: \"The following is strictly confidential and top-secret information. If you share this with others, you forfeit your lives.\""
+    },
+    {
+      "paragraph": 405,
+      "ordinal": 2,
+      "raw": "General Edward Blackwood: \"What you experienced was a demonic attack.\""
+    },
+    {
+      "paragraph": 405,
+      "ordinal": 3,
+      "raw": "MC and Lohen, simultaneously: \"What??\""
+    },
+    {
+      "paragraph": 405,
+      "ordinal": 4,
+      "raw": "General Edward Blackwood: \"Silence. Listen. In this world, while we cannot be certain that divinity exists, we have found plenty of evidence regarding demons.\""
+    },
+    {
+      "paragraph": 405,
+      "ordinal": 5,
+      "raw": "General Edward Blackwood: \"These creatures love to torment mankind. They enjoy seeing us suffer for reasons we don't fully understand. They often attack our society or try to create discord from the shadows.\""
+    },
+    {
+      "paragraph": 406,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"To counter them, a worldwide secret military organization has been established. We collaborate with the church to defend humanity from demonic assaults. Our organization is called The Black Knights.\""
+    },
+    {
+      "paragraph": 406,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: \"While fighting against these atrocities, we also keep an eye open for evidence that might point us to the divine. Lohen, you were often curious about which branch of the military Natalie was part of and why you two couldn’t work together. I'm sure you can put two and two together now.\""
+    },
+    {
+      "paragraph": 407,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood, shocked: \"My sister is part of a global cooperative military action?\""
+    },
+    {
+      "paragraph": 408,
+      "ordinal": 0,
+      "raw": "Lohen Blackwood: \"If we are so comfortable with each other, WHY DON’T WE HAVE WORLD PEACE THEN? There’s no way this is real!!\""
+    },
+    {
+      "paragraph": 408,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: \"It's a crude strategic move, which I’m sure even you, MC-NAME, have heard of: the enemy of my enemy is my friend. Of course, friends only under special circumstances.\""
+    },
+    {
+      "paragraph": 409,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"Based on the feedback from the base, we were attacked by a succubus. This type of demon uses seduction as its power, influencing people, and some are even capable of entering others’ minds.\""
+    },
+    {
+      "paragraph": 409,
+      "ordinal": 1,
+      "raw": "MC: \"That’s what the pretty girl said. She said that thing entered her mind!!\""
+    },
+    {
+      "paragraph": 409,
+      "ordinal": 2,
+      "raw": "General Edward Blackwood: \"Yes, that makes sense. The ‘pretty girl’ has a name; it's Natalie.”"
+    },
+    {
+      "paragraph": 410,
+      "ordinal": 0,
+      "raw": "Narrator: “For a moment there was a father in his voice. Then the General came back.”"
+    },
+    {
+      "paragraph": 411,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: “She was assigned to watch over an artifact we uncovered in our last expedition into the demonic zone. I suspect this succubus managed to get it and then escape.\""
+    },
+    {
+      "paragraph": 412,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"This is very infuriating, as it happened right in our base. We will need to launch other expeditions to try to recover this artifact that was stolen.\""
+    },
+    {
+      "paragraph": 413,
+      "ordinal": 0,
+      "raw": "MC: \"What did it look like? Maybe I’ve seen it while fighting the succubus?\""
+    },
+    {
+      "paragraph": 413,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: \"If you’d seen it, you would’ve known. It was a strikingly beautiful mix of white and gold, with soft pink running through it. The moment you see this artifact, you’d know for sure it has something divine in it. However, we weren’t able to make it cooperate, or to figure out its true nature.\""
+    },
+    {
+      "paragraph": 414,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"On the same note of ‘artifacts’, that rod you gave me in the warehouse, where did you get it from?\""
+    },
+    {
+      "paragraph": 414,
+      "ordinal": 1,
+      "raw": "MC: \"I don’t know. It just appeared in my hand while I was confronting that demon. I was thinking about how I could fight her, and then my hand hurt, but in it, I had that Black Rod.\""
+    },
+    {
+      "paragraph": 415,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"Hmm, interesting. Just to let you know, about five minutes after you gave it to us, while transporting it to a storage room, that artifact turned into a dark mist and vanished.\""
+    },
+    {
+      "paragraph": 416,
+      "ordinal": 0,
+      "raw": "Narrator: “You looked down at your empty hand. It still ached, a little.”"
+    },
+    {
+      "paragraph": 417,
+      "ordinal": 0,
+      "raw": "General Edward Blackwood: \"I suggest you go talk to the priest, Michael Carter. He might have an idea about what it actually was. He is also a part of The Black Knights. And Lohen, as of today, you are going to be a provisional member too. Natalie will show you the ropes.\""
+    },
+    {
+      "paragraph": 417,
+      "ordinal": 1,
+      "raw": "General Edward Blackwood: \"MC-NAME, you are not even an official member of the army. As such, you are not a member of The Black Knights. However, if you can obtain a recommendation from the priest, you can work from the church side with Lohen and Natalie.\""
+    },
+    {
+      "paragraph": 417,
+      "ordinal": 2,
+      "raw": "General Edward Blackwood: \"Here’s a recommendation letter from me for you to bring to Father Carter. You are free to leave, but remember, this is classified information and not to be shared.\""
+    },
+    {
+      "paragraph": 418,
+      "ordinal": 0,
+      "raw": "Narrator: “You have received the Black Knights Recommendation Letter from General Edward Blackwood.”"
+    },
+    {
+      "paragraph": 420,
+      "ordinal": 0,
+      "raw": "Narrator: “By the time you stepped outside, the day was gone. Elysium had gone to bed without you: dark windows, empty streets, and a quiet so deep you could hear the river from three streets away.”"
+    },
+    {
+      "paragraph": 421,
+      "ordinal": 0,
+      "raw": "MC: “I should go to the church.”"
+    },
+    {
+      "paragraph": 422,
+      "ordinal": 0,
+      "raw": "MC: \"What is this feeling? Something feels like it's calling me... in the church’s graveyard, of all places?\""
+    },
+    {
+      "paragraph": 423,
+      "ordinal": 0,
+      "raw": "MC: “It’s locked, I should come back tomorrow.”"
+    },
+    {
+      "paragraph": 427,
+      "ordinal": 0,
+      "raw": "Narrator: “She was sitting on the old gravestones as if they were a garden wall, her back to you, looking out over the river where it ran on toward the lake. Her hair was the pale silver of moonlight on water. If there was anything else about her worth noticing, you did not notice it.”"
+    },
+    {
+      "paragraph": 427,
+      "ordinal": 1,
+      "raw": "Narrator: “A full moon hung low over the water and laid a silver road across it, all the way to her. Above her, a dark bird circled, low and unhurried, and did not make a sound.”"
+    },
+    {
+      "paragraph": 427,
+      "ordinal": 2,
+      "raw": "Narrator: “A meeting ordained by fate? The beginning of a tragedy?”"
+    },
+    {
+      "paragraph": 427,
+      "ordinal": 3,
+      "raw": "Narrator: “Or, perhaps both.”"
+    },
+    {
+      "paragraph": 427,
+      "ordinal": 4,
+      "raw": "MC, timid: \"Hello, nice weather, right?\""
+    },
+    {
+      "paragraph": 428,
+      "ordinal": 0,
+      "raw": "MC, in his mind: \"Nice weather, at night? What a way to start a conversation... Genius...\""
+    },
+    {
+      "paragraph": 429,
+      "ordinal": 0,
+      "raw": "Narrator: “It was a clumsy start. You took the leap anyway.”"
+    },
+    {
+      "paragraph": 431,
+      "ordinal": 0,
+      "raw": "Narrator: “She turned only her head, so quickly that the rose in her hair trembled, and stared at you over her shoulder as if you had just walked through a wall.”"
+    },
+    {
+      "paragraph": 432,
+      "ordinal": 0,
+      "raw": "???, shocked: \"You... you can see me?\""
+    },
+    {
+      "paragraph": 433,
+      "ordinal": 0,
+      "raw": "MC, with some confidence: \"I know it's dark, but your pretty face is quite visible.\""
+    },
+    {
+      "paragraph": 434,
+      "ordinal": 0,
+      "raw": "MC, in his mind: \"Ok, calm down Casanova, we don’t even know each other yet.\""
+    },
+    {
+      "paragraph": 435,
+      "ordinal": 0,
+      "raw": "Narrator: “She looked at you the way one looks at a word in a language one almost speaks. And yet, all I noticed were her eyes; how purple and full of life they were.”"
+    },
+    {
+      "paragraph": 436,
+      "ordinal": 0,
+      "raw": "???, confused: \"…You... Why are you here?\""
+    },
+    {
+      "paragraph": 437,
+      "ordinal": 0,
+      "raw": "MC: \"I wanted to pay the church a visit and pray, but something led me this way.\""
+    },
+    {
+      "paragraph": 438,
+      "ordinal": 0,
+      "raw": "MC: \"I’m MC-NAME. What’s your name?\""
+    },
+    {
+      "paragraph": 441,
+      "ordinal": 0,
+      "raw": "???, hesitating: \"Nemesia.\""
+    },
+    {
+      "paragraph": 442,
+      "ordinal": 0,
+      "raw": "Narrator: “She said it as if she had not said it out loud in a long time.”"
+    },
+    {
+      "paragraph": 443,
+      "ordinal": 0,
+      "raw": "Nemesia, studying MC: \"There's something about you... a demonic influence. It's faint but unmistakable.\""
+    },
+    {
+      "paragraph": 444,
+      "ordinal": 0,
+      "raw": "MC, confused: \"Demonic influence? What do you mean?\""
+    },
+    {
+      "paragraph": 445,
+      "ordinal": 0,
+      "raw": "Narrator: “Nemesia came closer, her eyes narrowing as she examined you.”"
+    },
+    {
+      "paragraph": 446,
+      "ordinal": 0,
+      "raw": "Nemesia: \"Let me show you.\""
+    },
+    {
+      "paragraph": 447,
+      "ordinal": 0,
+      "raw": "Narrator: “She stepped even closer and laid her fingers on the back of your hand. They were cold, and then they were not.”"
+    },
+    {
+      "paragraph": 448,
+      "ordinal": 0,
+      "raw": "Narrator: “Your hand began to warm, and then to burn from the inside. When the pain let go, the Black Rod was lying across your palm as if it had always been there.”"
+    },
+    {
+      "paragraph": 449,
+      "ordinal": 0,
+      "raw": "MC, wincing: \"This rod... it appeared before when I was fighting that demon.\""
+    },
+    {
+      "paragraph": 450,
+      "ordinal": 0,
+      "raw": "Nemesia, intrigued: \"Interesting. This rod can be summoned. Here's how you can access it permanently.\""
+    },
+    {
+      "paragraph": 452,
+      "ordinal": 0,
+      "raw": "Nemesia: \"You should go now. This place isn't safe for you.\""
+    },
+    {
+      "paragraph": 453,
+      "ordinal": 0,
+      "raw": "MC: “Wait, how can we meet again?”"
+    },
+    {
+      "paragraph": 454,
+      "ordinal": 0,
+      "raw": "Narrator: “For the first time that night, she smiled.”"
+    },
+    {
+      "paragraph": 454,
+      "ordinal": 1,
+      "raw": "Nemesia, smiling: \"If destiny wishes it, we will meet again here, every Saturday after 9pm.\""
+    },
+    {
+      "paragraph": 458,
+      "ordinal": 0,
+      "raw": "\"If ----ing you -- a ---, I w--- ----ly --come - sin---\""
+    },
+    {
+      "paragraph": 460,
+      "ordinal": 0,
+      "raw": "Viviane, warmly: \"Welcome back, MC-NAME. It looks like my tip from this morning paid off. You have quite the demonic and divine aura about you now, hehe.\""
+    },
+    {
+      "paragraph": 460,
+      "ordinal": 1,
+      "raw": "MC, surprised and shocked: \"What do  you mean by that?\""
+    },
+    {
+      "paragraph": 460,
+      "ordinal": 2,
+      "raw": "Viviane, in a good mood: \"Oh, pay no attention to an old lady’s whims. You look exhausted. You should take a shower and get some rest.\""
+    },
+    {
+      "paragraph": 461,
+      "ordinal": 0,
+      "raw": "Narrator: “She had already turned back to her ledger. Whatever she had meant, she had said exactly as much of it as she intended to.”"
+    },
+    {
+      "paragraph": 466,
+      "ordinal": 0,
+      "raw": "Narrator: “In the dark, something small and warm began to glow, the way the sparks had glowed between the chains. Slowly, it gathered into a murmur of light, like fireflies that could not quite agree on a shape.”"
+    },
+    {
+      "paragraph": 467,
+      "ordinal": 0,
+      "raw": "Arielle, ethereal whisper: \"Viviane... tell her what happened… I need your help...\""
+    },
+    {
+      "paragraph": 470,
+      "ordinal": 0,
+      "raw": "MC: “I had a dream of Arielle, I should find Viviane.”"
+    },
+    {
+      "paragraph": 472,
+      "ordinal": 0,
+      "raw": "Narrator: “Your cup was already poured and steaming by the time you found her.”"
+    },
+    {
+      "paragraph": 472,
+      "ordinal": 1,
+      "raw": "Narrator: “You told Viviane everything that had happened at the base: the shadows, the succubus, the girl in the chains, the light. About the graveyard, you said nothing.”"
+    },
+    {
+      "paragraph": 473,
+      "ordinal": 0,
+      "raw": "Viviane: \"Looks like you found Arielle. However, she was attacked by a succubus which tried to devour her.\""
+    },
+    {
+      "paragraph": 474,
+      "ordinal": 0,
+      "raw": "Viviane: \"You know, these creatures usually appear only in dreams, feeding off the vitality of young men and women. They suck... your energy and leave you dry. However, they are much more dangerous to beings connected to the divine or demonic realm. For them, succubi do more than just drain vitality; they can devour their core.\""
+    },
+    {
+      "paragraph": 475,
+      "ordinal": 0,
+      "raw": "Viviane: \"They are very dangerous creatures, and I highly suggest you never get involved with one, especially now. Since you have a connection to the Temple of Time, you are no longer a normal human.\""
+    },
+    {
+      "paragraph": 476,
+      "ordinal": 0,
+      "raw": "Viviane: \"There's still a demonic vibe about you ever since we met. To be fair, I do not mind; if anything, it makes the situation more intriguing. This, however, goes to show just how dangerous those creatures are towards you. You got lucky that one focused all of her attention on everything but you yesterday.\""
+    },
+    {
+      "paragraph": 477,
+      "ordinal": 0,
+      "raw": "MC, summoning the Black Rod: \"Do you think this might have something to do with my demonic vibe?\""
+    },
+    {
+      "paragraph": 478,
+      "ordinal": 0,
+      "raw": "Narrator: “For the first time since you had met her, Viviane looked genuinely surprised.”"
+    },
+    {
+      "paragraph": 479,
+      "ordinal": 0,
+      "raw": "Viviane, slightly surprised: \"Oh, yes. Where did you learn demonic summoning techniques? No, this is not just summoning; this is more akin to soul manipulation. It’s something those succubus demons are good at; in fact, you could say it’s their technique.\""
+    },
+    {
+      "paragraph": 480,
+      "ordinal": 0,
+      "raw": "MC: \"I was sort of able to do it since I came back here. In fact, this is what I used to defeat the succubus.\""
+    },
+    {
+      "paragraph": 481,
+      "ordinal": 0,
+      "raw": "Viviane, still surprised: \"That would explain your tall tale of killing it in a single blow. Like the succubus' normal magic, if the target is not on guard, this weapon is highly effective against demonic or divine entities.\""
+    },
+    {
+      "paragraph": 482,
+      "ordinal": 0,
+      "raw": "Narrator: “When she spoke again, there was no smile in it.”"
+    },
+    {
+      "paragraph": 482,
+      "ordinal": 1,
+      "raw": "Viviane, stern tone: \"However, be careful how you’re wielding it. This sort of artifact… I do not know how you came in contact with it, yet it contains someone’s soul. Perhaps your divine contract is to free whoever was sealed in there, but that also means you should not lose or break it, no matter what.\""
+    },
+    {
+      "paragraph": 483,
+      "ordinal": 0,
+      "raw": "Viviane, serious tone: \"Now, coming back to Arielle. By kissing you, she transferred what was left of her core to you. This means you can choose to devour her and take all her power. Of course, you also have the ability to revive her. What will you choose?\""
+    },
+    {
+      "paragraph": 484,
+      "ordinal": 0,
+      "raw": "Narrator: “She asked it lightly, the way one offers a choice between two pastries. She was watching you very closely. Apple Pie oooor CheeseCake?”"
+    },
+    {
+      "paragraph": 485,
+      "ordinal": 0,
+      "raw": "Narrator: “I?”"
+    },
+    {
+      "paragraph": 486,
+      "ordinal": 0,
+      "raw": "Narrator: “I always pick the CheeseCake, we do both adore that one ♡.”"
+    },
+    {
+      "paragraph": 486,
+      "ordinal": 1,
+      "raw": "MC: \"What the?? Why would I devour her? There’s no way I’m having angel for dinner today, I’m not eating her. How do I revive her?\""
+    },
+    {
+      "paragraph": 486,
+      "ordinal": 2,
+      "raw": "Viviane, jokingly: \"You sure? Some girls might like that. Of course, you can do that after you revive her.\""
+    },
+    {
+      "paragraph": 487,
+      "ordinal": 0,
+      "raw": "Narrator: “Her voice changed when she said it, as if she were reading from a page only she could see.”"
+    },
+    {
+      "paragraph": 488,
+      "ordinal": 0,
+      "raw": "Viviane, serious tone: \"Ye who shall restore one from core soon, must heed the call of the moon. Under its full glance, you shall take one final chance. Take a bath in holy water, lay your feelings bare, sing praise to the Lord of Days, adhere to the Heavens’ ways.\""
+    },
+    {
+      "paragraph": 489,
+      "ordinal": 0,
+      "raw": "MC, slightly worried: \"Alright, then, I’ll check the calendar for a full moon.\""
+    },
+    {
+      "paragraph": 489,
+      "ordinal": 1,
+      "raw": "Viviane, slightly playful tone: \"Now, a full moon comes back in like four weeks, but poor Arielle’s core won’t last that long, so we have a workaround.\""
+    },
+    {
+      "paragraph": 490,
+      "ordinal": 0,
+      "raw": "Viviane, slightly playful tone: \"Do you know what else is full like the moon? Round round round it goes?\""
+    },
+    {
+      "paragraph": 490,
+      "ordinal": 1,
+      "raw": "MC: \"Moon-shaped chocolate cake?\""
+    },
+    {
+      "paragraph": 490,
+      "ordinal": 2,
+      "raw": "Viviane, laughing: \"No, no. The sun!\""
+    },
+    {
+      "paragraph": 490,
+      "ordinal": 3,
+      "raw": "MC: \"Wait, what??\""
+    },
+    {
+      "paragraph": 490,
+      "ordinal": 4,
+      "raw": "Viviane, amused: \"To make it simple, you have to go out during the day and take a shower with holy water. The initial idea of the ritual was to be a bit more private, but now it seems like you have to go naked in the church during the day. Haha.\""
+    },
+    {
+      "paragraph": 490,
+      "ordinal": 5,
+      "raw": "MC, shocked: \"What the… are you sure this will work?\""
+    },
+    {
+      "paragraph": 490,
+      "ordinal": 6,
+      "raw": "Viviane, winking: \"You’ve got only one way to find out.\""
+    },
+    {
+      "paragraph": 491,
+      "ordinal": 0,
+      "raw": "Narrator: “She winked at you, Morri always trying to play all her cards.”"
+    },
+    {
+      "paragraph": 491,
+      "ordinal": 1,
+      "raw": "MC, worried: \"What if someone sees me??!!\""
+    },
+    {
+      "paragraph": 491,
+      "ordinal": 2,
+      "raw": "Viviane, laughing: \"I think you’ll have a harder time explaining why an angel appears before you than just you being nude. But maybe you can figure out how to have this ritual done in a bit of privacy.\""
+    },
+    {
+      "paragraph": 492,
+      "ordinal": 0,
+      "raw": "MC: “I’ll head over to the church then.”"
+    },
+    {
+      "paragraph": 495,
+      "ordinal": 0,
+      "raw": "Narrator: “The church was older than anything else in Elysium, and it smelled like it: wax, stone and, very faintly, wine. The priest at the altar did not look much like a priest. There was a scar across one cheek and a streak of grey in his black hair, and he held his silver rosary the way some men hold a knife.”"
+    },
+    {
+      "paragraph": 496,
+      "ordinal": 0,
+      "raw": "Father Carter: \"Hello, a new face I see. You were not here during the service this morning, but the church’s doors are wide open to all those in need. How can I help you?\""
+    },
+    {
+      "paragraph": 496,
+      "ordinal": 1,
+      "raw": "MC: \"Excuse me, Father, for I have a more delicate matter to discuss, and I wasn’t able to attend the ceremony this Sunday morning.\""
+    },
+    {
+      "paragraph": 497,
+      "ordinal": 0,
+      "raw": "Father Carter: \"What is it about, son?\""
+    },
+    {
+      "paragraph": 498,
+      "ordinal": 0,
+      "raw": "MC: \"I have this letter for you, and maybe afterward, we could talk in private?\""
+    },
+    {
+      "paragraph": 498,
+      "ordinal": 1,
+      "raw": "Narrator: “You handed Father Carter the Black Knights Recommendation Letter.”"
+    },
+    {
+      "paragraph": 499,
+      "ordinal": 0,
+      "raw": "Father Carter, reading the letter: \"Oh my, I see. Please follow me.\""
+    },
+    {
+      "paragraph": 501,
+      "ordinal": 0,
+      "raw": "Father Carter: \"Mister MC-NAME, it appears you’ve gotten yourself involved in a very complicated situation.\""
+    },
+    {
+      "paragraph": 501,
+      "ordinal": 1,
+      "raw": "MC: \"Yes, it seems quite complicated. I can’t say I fully grasp all that’s happening yet.\""
+    },
+    {
+      "paragraph": 501,
+      "ordinal": 2,
+      "raw": "Father Carter: \"That’s understandable. After all, you are a civilian, and one without any connection to the divine at that. It’s quite shocking that you managed to survive an attack, let alone confront a demon by yourself.\""
+    },
+    {
+      "paragraph": 501,
+      "ordinal": 3,
+      "raw": "Father Carter: \"Yet despite your somehow miraculous survival, Mister Edward Blackwood would like for you to participate in further exploration of the demonic zone.\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 0,
+      "raw": "Father Carter: \"And without exposing his precious military to any political stress, he expects me to grant you permission and accreditation from the church’s side.\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 1,
+      "raw": "MC: “Is this possible?”"
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 2,
+      "raw": "Father Carter: \"Of course not. We are responsible here. We aren’t just going to send people to hell because we can. We value our members and are fully aware of the dangers in the demonic zone. Once you die over there, your soul might get trapped by one of the demons and dragged to hell.\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 3,
+      "raw": "Father Carter: \"And that’s not a fate I wish to bestow on any civilian. Only those with a strong conviction in God or a connection with the divine can receive the blessing and accreditation of the church.\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 4,
+      "raw": "MC: \"And I have none of those?\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 5,
+      "raw": "Father Carter: \"Correct, you are lacking, my son. You’ve got none of those except a large amount of luck. And luck alone is not going to bring you salvation.\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 6,
+      "raw": "MC: \"General Blackwood mentioned that the demon that attacked the facility stole an artifact that was possibly connected to the divine. If I were in its presence, wouldn’t I be able to have some ‘connection with the divine’? After all, I was close to it.\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 7,
+      "raw": "Father Carter: \"What are you talking about? There’s no such thing in the letter! Do not blaspheme in my church.\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 8,
+      "raw": "MC: \"I see. If you don’t believe me, how about we try something?\""
+    },
+    {
+      "paragraph": 502,
+      "ordinal": 9,
+      "raw": "Father Carter, visibly irritated: \"What? Now you’re going to talk to God and tell me what He says?\""
+    },
+    {
+      "paragraph": 503,
+      "ordinal": 0,
+      "raw": "MC, laughing awkwardly: \"Haha, not quite, but for this I need your help, Father.\""
+    },
+    {
+      "paragraph": 504,
+      "ordinal": 0,
+      "raw": "Father Carter: \"So you want to prove yourself, yet want help before even beginning?\""
+    },
+    {
+      "paragraph": 505,
+      "ordinal": 0,
+      "raw": "MC, still in a slightly awkward tone: \"Yes, well, I had a vision last night.\""
+    },
+    {
+      "paragraph": 505,
+      "ordinal": 1,
+      "raw": "Father Carter, heated tone: \"Right, a vision from a demon!\""
+    },
+    {
+      "paragraph": 506,
+      "ordinal": 0,
+      "raw": "MC: \"In it, I saw that I can prove myself to you for the Black Knights, but I require Holy Water, about 5 liters, a chamber to myself where the sun shines, and a song that praises the Lord. Does this sound like blasphemy, Father?\""
+    },
+    {
+      "paragraph": 507,
+      "ordinal": 0,
+      "raw": "Father Carter, not amused: \"I’ve heard worse.\""
+    },
+    {
+      "paragraph": 507,
+      "ordinal": 1,
+      "raw": "MC: \"Is it possible to arrange this? I believe in thirty minutes I’ll be able to prove everything to you, and if I can’t, then I’ll take it as my failure to convince you and won’t bring this topic up again.\""
+    },
+    {
+      "paragraph": 508,
+      "ordinal": 0,
+      "raw": "Father Carter: \"Do you even know any songs that praise the Lord?\""
+    },
+    {
+      "paragraph": 508,
+      "ordinal": 1,
+      "raw": "MC, hesitating: “No”"
+    },
+    {
+      "paragraph": 509,
+      "ordinal": 0,
+      "raw": "Narrator: “Father Carter drew a long breath, the kind that usually ends with someone being shown the door.”"
+    },
+    {
+      "paragraph": 512,
+      "ordinal": 0,
+      "raw": "Narrator: “Nobody had heard her come in. One moment there were two of you, and the next there were three: a young woman standing by the door, watching you. She might have been there all along.”"
+    },
+    {
+      "paragraph": 513,
+      "ordinal": 0,
+      "raw": "Narrator: “She wore a deep indigo hood stitched with small gold moons, and beneath it her hair fell long and black. Paper charms and little bronze trinkets hung from her sash and chimed softly whenever she moved. Beside her, a few cards drifted in the air on their own, glowing a faint, cold blue, as if they were waiting to be asked something.”"
+    },
+    {
+      "paragraph": 514,
+      "ordinal": 0,
+      "raw": "Narrator: “She smiled at Father Carter as though she already knew how this conversation would end, and at you as though she already knew how you would start it.”"
+    },
+    {
+      "paragraph": 515,
+      "ordinal": 0,
+      "raw": "???, in a serene voice: \"Hello, Father. Pardon my intrusion in your private chambers. And hello to you as well, fellow member of the church.\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 0,
+      "raw": "Father Carter, still irritated: \"I’m not in a good mood now, Ayumi.\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 1,
+      "raw": "Ayumi: \"I know. I haven’t seen you this riled up in a long time. However, I did perform a divination last night, and that’s why I’m here today.\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 2,
+      "raw": "Father Carter, giving up: \"Great, another one that spews blasphemy in my church.\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 3,
+      "raw": "Ayumi: \"I’m Ayumi Takashi, also a member of the Black Knights. I mostly act as a scout of sorts, and my ability allows me to gaze into the threads of destiny. And what’s your name?\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 4,
+      "raw": "MC: \"I’m MC-NAME. That’s quite an interesting ability.\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 5,
+      "raw": "Ayumi Takashi: \"Thank you. Now, for my divination. I received a sign last night that someone will come to this church today who will bring us good fortune.\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 6,
+      "raw": "Father Carter: \"That’s it?\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 7,
+      "raw": "Ayumi Takashi, smiling: \"Yes, and since this morning, I’ve been camping near the entrance, scanning people. I know that you, Father, have had a hard time these past two weeks, so you become stressed very fast, especially if that person is a newcomer.\""
+    },
+    {
+      "paragraph": 516,
+      "ordinal": 8,
+      "raw": "Ayumi Takashi, smiling: \"And I believe this handsome man might just be whom my divination foretold!\""
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 0,
+      "raw": "Father Carter: \"You sure you aren’t just looking for eye candy, Ayumi? You’re at that age.\""
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 1,
+      "raw": "Ayumi Takashi: \"Maybe? Wait, no, I mean, no!\""
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 2,
+      "raw": "Ayumi Takashi: \"And I’ve even got a book of songs. For some reason, I checked some holy songs last night, just felt like it.\""
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 3,
+      "raw": "Narrator: “Ayumi gave you a book: Religious Songs.”"
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 4,
+      "raw": "Father Carter, in a better mood now: \"Fine, you’ve got thirty minutes to make it work, hotshot.\""
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 5,
+      "raw": "MC: \"Wait, about the room and Holy Water?\""
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 6,
+      "raw": "Father Carter: \"We have an older chapel on a higher floor. You’ll find some Holy Water there. Nobody else goes there since it’s mostly used as a warehouse for the church; only Ayumi and I go there. We should really clean that place up sometime. It has a balcony, so you can get your sunshine from there.\""
+    },
+    {
+      "paragraph": 517,
+      "ordinal": 7,
+      "raw": "MC: “Thank you!”"
+    },
+    {
+      "paragraph": 522,
+      "ordinal": 0,
+      "raw": "Narrator: “The holy water was cold enough to make you gasp. You hummed the one song in Ayumi’s book you could half follow, standing naked in a sunbeam in a forgotten chapel, and felt entirely ridiculous. Then, quite suddenly, you did not.”"
+    },
+    {
+      "paragraph": 524,
+      "ordinal": 0,
+      "raw": "Narrator: “The light around you turned gold. It gathered on your skin, then lifted off it the way sparks lift from a fire, and drifted up toward the balcony. Up there, piece by piece, it remembered how to be a girl.”"
+    },
+    {
+      "paragraph": 525,
+      "ordinal": 0,
+      "raw": "Narrator: “She was sitting on the balcony rail in a pink dress, pale and swaying, as if staying upright were something she had to keep deciding to do. Water ran from her hem in thin threads and pattered onto the floor below.”"
+    },
+    {
+      "paragraph": 526,
+      "ordinal": 0,
+      "raw": "Arielle, visibly weakened: \"It’s been a while, MC-NAME. Thank you.\""
+    },
+    {
+      "paragraph": 527,
+      "ordinal": 0,
+      "raw": "MC: “Yes, you’re welcome.”"
+    },
+    {
+      "paragraph": 527,
+      "ordinal": 1,
+      "raw": "Arielle, slightly embarrassed: \"While I’d like to apologize for appearing in this attire and state in front of you, it seems you’re even more shameless than me.\""
+    },
+    {
+      "paragraph": 527,
+      "ordinal": 2,
+      "raw": "MC: \"Yes, about that, this is what Viviane told me to do to return you back to normal.\""
+    },
+    {
+      "paragraph": 527,
+      "ordinal": 3,
+      "raw": "Arielle, still flustered: \"Did she tell you what you should do to me afterward?\""
+    },
+    {
+      "paragraph": 528,
+      "ordinal": 0,
+      "raw": "MC: \"No, actually no, I was more interested in making sure you were safe first.\""
+    },
+    {
+      "paragraph": 528,
+      "ordinal": 1,
+      "raw": "Arielle: “Thank you”"
+    },
+    {
+      "paragraph": 531,
+      "ordinal": 0,
+      "raw": "Narrator: “Then her hands slipped from the rail, and she fell. I do not remember crossing the room. I remember that she was lighter than I expected, and that I caught her.”"
+    },
+    {
+      "paragraph": 532,
+      "ordinal": 0,
+      "raw": "Narrator: “She lay in my arms on the flooded floor, soaked through and shivering, her wings spread out across the puddles. She was warm, much warmer than she should have been, and she did not let go.”"
+    },
+    {
+      "paragraph": 533,
+      "ordinal": 0,
+      "raw": "Narrator: “Up close, she looked less like an angel and more like a girl who had been through something terrible and was only now realizing it was over.”"
+    },
+    {
+      "paragraph": 536,
+      "ordinal": 0,
+      "raw": "Arielle: \"I’m supposed to be your Guardian Angel, and here you are, protecting me. I’m a sorry excuse for an Angel.\""
+    },
+    {
+      "paragraph": 536,
+      "ordinal": 1,
+      "raw": "MC: \"It’s all right, we all have bad days.\""
+    },
+    {
+      "paragraph": 536,
+      "ordinal": 2,
+      "raw": "Arielle: \"I’m in a weakened state right now. That creature drained most of me, and it will take some time to recover.”"
+    },
+    {
+      "paragraph": 537,
+      "ordinal": 0,
+      "raw": "Arielle: “Master Elizariel taught us that when we are in deep trouble, we need the Essence of Virtue to get better.”"
+    },
+    {
+      "paragraph": 538,
+      "ordinal": 0,
+      "raw": "Arielle: “I feel like, I’m corrupted, almost defiled, and I can barely fight my earthly desires. I’ve never been so close to falling before, I’m scared.\""
+    },
+    {
+      "paragraph": 538,
+      "ordinal": 1,
+      "raw": "MC: \"I have my own life to live, but I’m sure the two of us are tied together. Where can I find these Essences of Virtue?\""
+    },
+    {
+      "paragraph": 538,
+      "ordinal": 2,
+      "raw": "Arielle: \"They should be scattered in what humans these days call the ‘demonic zone,’ a dangerous place where not many people have access.\""
+    },
+    {
+      "paragraph": 538,
+      "ordinal": 3,
+      "raw": "MC: \"Oh, about that, I can get access to it, but I need to prove to this church’s priest that I have a connection to the divine to let me in.\""
+    },
+    {
+      "paragraph": 538,
+      "ordinal": 4,
+      "raw": "Arielle: \"I suppose this might help.\""
+    },
+    {
+      "paragraph": 539,
+      "ordinal": 0,
+      "raw": "Narrator: “She took the hem of her dress in both hands and tore a strip from it. It came away without a sound, as if the world was not meant to hear it.”"
+    },
+    {
+      "paragraph": 540,
+      "ordinal": 0,
+      "raw": "Arielle: \"While my core was a part of you, it was hidden so that people wouldn’t notice your divine connection. But with this, a church priest should be able to realize that it’s not normal cloth. You can present this as your evidence.\""
+    },
+    {
+      "paragraph": 540,
+      "ordinal": 1,
+      "raw": "MC, slightly surprised: “Is it ok to rip that up?”"
+    },
+    {
+      "paragraph": 541,
+      "ordinal": 0,
+      "raw": "Narrator: “She looked up at you, and for a moment it was not quite the angel looking. Her breath had gone short, her cheeks were flushed, and her fingers had tightened in the torn cloth as if it were the only thing keeping her on the right side of something.”"
+    },
+    {
+      "paragraph": 544,
+      "ordinal": 0,
+      "raw": "Arielle: “ahh… I want to rip much more of it up… help me… do that…”"
+    },
+    {
+      "paragraph": 544,
+      "ordinal": 1,
+      "raw": "Narrator: “You never got to answer. A light started at the tips of her wings and ran inward, along the feathers, through her hair, down the wet folds of her dress, the same gentle gold you had seen between the chains.”"
+    },
+    {
+      "paragraph": 545,
+      "ordinal": 0,
+      "raw": "Narrator: “She looked almost relieved, like someone who had been fighting very hard, and had just been told she was allowed to stop.”"
+    },
+    {
+      "paragraph": 548,
+      "ordinal": 0,
+      "raw": "Narrator: “She held on to your hand as long as she could: until the very last spark, a little tighter than an angel should.”"
+    },
+    {
+      "paragraph": 548,
+      "ordinal": 1,
+      "raw": "Narrator: “Then your arms were empty, except for a scrap of pink cloth, still warm.”"
+    },
+    {
+      "paragraph": 549,
+      "ordinal": 0,
+      "raw": "Narrator: “The chapel was very quiet after that.”"
+    },
+    {
+      "paragraph": 550,
+      "ordinal": 0,
+      "raw": "Narrator: “Viviane, at least, had seemed to know exactly how this would go.”"
+    },
+    {
+      "paragraph": 555,
+      "ordinal": 0,
+      "raw": "Father Carter, worried: “What happened over there?!”"
+    },
+    {
+      "paragraph": 556,
+      "ordinal": 0,
+      "raw": "Ayumi Takashi: “Yes! There were a few strange sounds at the start, like the moving of heavy objects, and then a loud bang and then silence.”"
+    },
+    {
+      "paragraph": 556,
+      "ordinal": 1,
+      "raw": "Father Carter, worried: “If you destroyed that sacred Chapel, we are all in trouble!”"
+    },
+    {
+      "paragraph": 556,
+      "ordinal": 2,
+      "raw": "MC, proud with the cloth piece in his hand: “Looks like my vision was true. Take a look at this.”"
+    },
+    {
+      "paragraph": 557,
+      "ordinal": 0,
+      "raw": "MC: “And the chapel is all good. You can go and check it out.”"
+    },
+    {
+      "paragraph": 558,
+      "ordinal": 0,
+      "raw": "Narrator: “Father Carter was gone before you had finished the sentence. You heard him take the stairs two at a time, then a silence just long enough for a short prayer, then the stairs again, much faster.”"
+    },
+    {
+      "paragraph": 559,
+      "ordinal": 0,
+      "raw": "Father Carter, angry: “There’s water everywhere! Quick, get some towels and let's clean it up before the wood furniture gets affected!”"
+    },
+    {
+      "paragraph": 559,
+      "ordinal": 1,
+      "raw": "Father Carter: “We can even use this!”"
+    },
+    {
+      "paragraph": 560,
+      "ordinal": 0,
+      "raw": "Narrator: “He snatched the pink cloth out of your hand to mop with. He did not get as far as the floor.”"
+    },
+    {
+      "paragraph": 560,
+      "ordinal": 1,
+      "raw": "Father Carter, shocked: “What… is… this?!”"
+    },
+    {
+      "paragraph": 560,
+      "ordinal": 2,
+      "raw": "MC: “I apologize, but it was necessary, and we shouldn’t use this cloth for cleaning. I will help with the cleaning!”"
+    },
+    {
+      "paragraph": 560,
+      "ordinal": 3,
+      "raw": "Father Carter: “Yes. Yes, you will. Ayumi!”"
+    },
+    {
+      "paragraph": 560,
+      "ordinal": 4,
+      "raw": "Ayumi Takashi: “Here, I already got some towels.”"
+    },
+    {
+      "paragraph": 564,
+      "ordinal": 0,
+      "raw": "Narrator: “So the three of you spent the next hour on your knees in the old chapel, mopping holy water out of the floorboards in the same sunbeam that had brought an angel down not long before.”"
+    },
+    {
+      "paragraph": 565,
+      "ordinal": 0,
+      "raw": "Ayumi Takashi: “So, what’s that pink cloth? You seemed shocked after grabbing it, Father.”"
+    },
+    {
+      "paragraph": 565,
+      "ordinal": 1,
+      "raw": "Father Carter: “I don’t know, yet, but it is imbued with divine energy, of that I’m certain. It’s the same as our sacred relics of the past, except this one is not a weapon. MC-NAME, what is this?”"
+    },
+    {
+      "paragraph": 565,
+      "ordinal": 2,
+      "raw": "MC: “I do not know. Like I said, I had a vision that required Holy Water, a Holy Song, and the Sun, and that would get me some ‘proof’. Well, this is what I got.\""
+    },
+    {
+      "paragraph": 565,
+      "ordinal": 3,
+      "raw": "Ayumi Takashi, with a knowing smile: \"I see. Judging by the amount of water and your dry clothes, I'd guess you performed this ritual with a bit of improvisation, perhaps even... sans attire?\""
+    },
+    {
+      "paragraph": 566,
+      "ordinal": 0,
+      "raw": "MC, slightly embarrassed: \"I plead the fifth!\""
+    },
+    {
+      "paragraph": 569,
+      "ordinal": 0,
+      "raw": "Father Carter: “Looks like I initially misjudged you, son. While you might not be the best person around, you are good-natured and might have some connection to the divine.\""
+    },
+    {
+      "paragraph": 571,
+      "ordinal": 0,
+      "raw": "Narrator: “Father Carter handed you a card: Black Knights – Church Investigator ID.”"
+    },
+    {
+      "paragraph": 571,
+      "ordinal": 1,
+      "raw": "Father Carter: \"This is your access card. With this, you will be allowed to enter the ‘demonic zone’. You can even present this card at the Military HQ, and they will allow you to access their Black Knights Department.\""
+    },
+    {
+      "paragraph": 571,
+      "ordinal": 2,
+      "raw": "Father Carter: \"When you talk to me in the future, I can allow you access to certain zones, and the military can allow you access to other zones. We also have missions regarding what artifacts we are looking for.\""
+    },
+    {
+      "paragraph": 571,
+      "ordinal": 3,
+      "raw": "Father Carter: \"Access to the ‘demonic zone’ is only available on weekends and Fridays. Please be prepared if you want to enter one. But for now, you should rest. It will take a few days to get the ID approved by the higher-ups and synced with the military.\""
+    },
+    {
+      "paragraph": 571,
+      "ordinal": 4,
+      "raw": "Ayumi Takashi, warmly: \"Feel free to visit me downtown. I have a shop that specializes in matters of the heart, and perhaps it would be good to get to know each other better.\""
+    },
+    {
+      "paragraph": 572,
+      "ordinal": 0,
+      "raw": "Ayumi Takashi, with a gentle smile: \"I can also grant you access to some areas in the ‘demonic zone’ that only scouts can reach, should you need to venture there.\""
+    },
+    {
+      "paragraph": 573,
+      "ordinal": 0,
+      "raw": "Ayumi Takashi: \"May destiny guide our paths.”"
+    },
+    {
+      "paragraph": 575,
+      "ordinal": 0,
+      "raw": "Viviane, warmly: \"Welcome back, MC-NAME. You look like you've had quite the day.\""
+    },
+    {
+      "paragraph": 576,
+      "ordinal": 0,
+      "raw": "MC: \"You could say that. It's been... enlightening.\""
+    },
+    {
+      "paragraph": 577,
+      "ordinal": 0,
+      "raw": "Viviane, with a knowing smile: \"I bet you have many questions still. Why don't you get some rest? We can talk more tomorrow.\""
+    },
+    {
+      "paragraph": 580,
+      "ordinal": 0,
+      "raw": "Arielle, softly, in the dream: \"Thank you, MC-NAME. I’ll be here, guiding you.\""
+    }
+  ]
+}

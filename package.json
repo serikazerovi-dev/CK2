@@ -1,0 +1,1 @@
+{"name":"casanova-killer-prologue-vn","version":"1.0.0","private":true,"description":"The complete authored prologue as a standalone browser browser demo","scripts":{"start":"node tools/serve.mjs","test":"node --test --test-isolation=none tests/*.test.cjs"},"engines":{"node":">=22"}}
