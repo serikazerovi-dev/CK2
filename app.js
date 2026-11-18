@@ -204,9 +204,10 @@ function advance(){
 function previous(){if(!state||state.cursor===0)return;cancelStrike();stopAuto();state=core.back(state);render();}
 $('previous-passage').onclick=previous;
 function home(){cancelStrike();stopTimers();stopAuto();$('ending-video').pause();showText(true);showScreen('title-screen');$('resume-button').hidden=!state;}
-function showEnding(){
+function showEnding(video=story.nodes.find(beat=>beat.kind==='ending').video){
   stopAuto();showScreen('ending-screen');
-  const film=$('ending-video');if(!film.getAttribute('src'))film.src=story.nodes.find(beat=>beat.kind==='ending').video;
+  const film=$('ending-video');film.pause();
+  if(film.getAttribute('src')!==video)film.src=video;
   film.currentTime=0;film.controls=false;
   $('pause-film').disabled=false;
   $('video-message').textContent='';$('play-film').hidden=true;
@@ -248,7 +249,7 @@ $('begin-button').onclick=()=>{
   panel.append(button('Begin prologue',start,'primary'));input.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();start();}});input.focus();input.select();
 };
 function chaptersPanel(){
-  const panel=openPanel('Chapters & opening');panel.append(element('p','Read from the beginning, jump to a chapter, or watch the opening.','muted'));
+  const panel=openPanel('Chapters & openings');panel.append(element('p','Read from the beginning, jump to a chapter, or choose an opening.','muted'));
   const list=element('div',undefined,'chapter-list');
   for(const chapter of story.chapters){
     const b=button('',()=>{if(!state)state=core.create(story,prefs.name);closePanel();go(chapter.start);},'chapter-link');
@@ -256,10 +257,12 @@ function chaptersPanel(){
     const text=element('span');text.append(element('small',`PART ${String(chapter.id).padStart(2,'0')}`),element('strong',chapter.title));
     b.append(img,text,element('span','→','arrow'));list.append(b);
   }
-  const opening=button('',()=>{closePanel();cancelStrike();stopTimers();showEnding();},'chapter-link');
-  const openingImage=element('img');openingImage.src=imagePath('0-01-011');openingImage.alt='';openingImage.loading='lazy';
-  const openingText=element('span');openingText.append(element('small','FILM'),element('strong','Opening'));
-  opening.append(openingImage,openingText,element('span','→','arrow'));list.append(opening);
+  for(const film of story.openings){
+    const opening=button('',()=>{closePanel();cancelStrike();stopTimers();showEnding(film.video);},'chapter-link');
+    const openingImage=element('img');openingImage.src=imagePath('0-01-011');openingImage.alt='';openingImage.loading='lazy';
+    const openingText=element('span');openingText.append(element('small',film.default?'FILM · ACT 0 DEFAULT':'FILM · ALTERNATIVE'),element('strong',film.title));
+    opening.append(openingImage,openingText,element('span','→','arrow'));list.append(opening);
+  }
   panel.append(list);
 }
 function historyPanel(){

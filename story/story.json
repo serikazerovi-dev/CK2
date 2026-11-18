@@ -1,5 +1,5 @@
 {
-  "version": "vn1-b06916a33189",
+  "version": "vn1-734e07b721c6",
   "compatibleVersions": [
     "vn1-0978b005fa9f",
     "vn1-a0acfb1b87ab",
@@ -7,7 +7,8 @@
     "vn1-2e754c302197",
     "vn1-8a2b698f5e18",
     "vn1-32972237cf2c",
-    "vn1-bd0e1c698c2b"
+    "vn1-bd0e1c698c2b",
+    "vn1-b06916a33189"
   ],
   "title": "The Casanova Killer",
   "chapters": [
@@ -7670,6 +7671,20 @@
       "camera": "center",
       "source": null,
       "title": "The Casanova Killer",
+      "video": "assets/video/prologue-ending-v12.mp4"
+    }
+  ],
+  "openings": [
+    {
+      "id": "v12",
+      "title": "Opening · v12",
+      "default": true,
+      "video": "assets/video/prologue-ending-v12.mp4"
+    },
+    {
+      "id": "v11",
+      "title": "Opening · v11 Director’s Cut",
+      "default": false,
       "video": "assets/video/prologue-ending-v11.mp4"
     }
   ]

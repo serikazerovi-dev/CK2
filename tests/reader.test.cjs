@@ -10,6 +10,17 @@ const story=JSON.parse(fs.readFileSync(path.join(root,'story/story.json'),'utf8'
 const source=JSON.parse(fs.readFileSync(path.join(root,'story/source-paragraphs.json'),'utf8'));
 const coverage=JSON.parse(fs.readFileSync(path.join(root,'story/coverage.json'),'utf8'));
 
+test('both openings are available, v12 ends Act 0, and previous saves still load',()=>{
+  assert.deepEqual(story.openings.map(f=>f.id),['v12','v11']);
+  const defaults=story.openings.filter(f=>f.default);
+  assert.equal(defaults.length,1);
+  assert.equal(defaults[0].id,'v12');
+  assert.equal(story.nodes.at(-1).video,defaults[0].video);
+  for(const film of story.openings)assert.ok(fs.existsSync(path.join(root,film.video)));
+  const previous=core.create(story);previous.version='vn1-b06916a33189';
+  assert.equal(core.validate(previous,story).version,story.version);
+});
+
 test('all five parts and every source dialogue block are represented',()=>{
   assert.equal(story.chapters.length,5);
   const sourceBlocks=[];

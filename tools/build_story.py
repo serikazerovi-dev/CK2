@@ -229,7 +229,7 @@ for node in nodes:
         for choice in node['choices']:
             target_source=choice.pop('targetSource')
             choice['target']=next(n['id'] for n in nodes if n['source']==target_source)
-emit('ending','The prologue is complete.',title='The Casanova Killer',video='assets/video/prologue-ending-v11.mp4')
+emit('ending','The prologue is complete.',title='The Casanova Killer',video='assets/video/prologue-ending-v12.mp4')
 for chapter in chapters:
     chapter['start']=next(n['id'] for n in nodes if n['kind']=='chapter' and n['part']==chapter['id'])
 for node in nodes:
@@ -244,7 +244,11 @@ for node in nodes:
         node['visibility']='partial'
         node.pop('enemy',None)
 revision=hashlib.sha256(json.dumps(nodes,ensure_ascii=False,sort_keys=True).encode()).hexdigest()[:12]
-story={'version':'vn1-'+revision,'compatibleVersions':['vn1-0978b005fa9f','vn1-a0acfb1b87ab','vn1-1e33fffdf44c','vn1-2e754c302197','vn1-8a2b698f5e18','vn1-32972237cf2c','vn1-bd0e1c698c2b'],'title':'The Casanova Killer','chapters':chapters,'nodes':nodes}
+openings=[
+    {'id':'v12','title':'Opening · v12','default':True,'video':'assets/video/prologue-ending-v12.mp4'},
+    {'id':'v11','title':'Opening · v11 Director’s Cut','default':False,'video':'assets/video/prologue-ending-v11.mp4'},
+]
+story={'version':'vn1-'+revision,'compatibleVersions':['vn1-0978b005fa9f','vn1-a0acfb1b87ab','vn1-1e33fffdf44c','vn1-2e754c302197','vn1-8a2b698f5e18','vn1-32972237cf2c','vn1-bd0e1c698c2b','vn1-b06916a33189'],'title':'The Casanova Killer','chapters':chapters,'nodes':nodes,'openings':openings}
 (ROOT/'story/story.json').write_text(json.dumps(story,ensure_ascii=False,indent=2),encoding='utf-8')
 # A classic script also permits direct file:// previews without fetch/CORS failures.
 (ROOT/'story/story.js').write_text('window.PROLOGUE = '+json.dumps(story,ensure_ascii=False,separators=(',',':'))+';\n',encoding='utf-8')
